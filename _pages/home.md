@@ -6,10 +6,18 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a research group jointly based in [Dalhousie's](https://dal.ca) [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) and the [Faculty of Medicine's](https://medicine.dal.ca) [Department of Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html).
 
+Our aim is to develop and collaboratively apply data-driven methods to try and mitigate health and social crises.
+This is focused on two main areas: genomic epidemiolgy of infectious diseases and inter-disciplinary collaborations with domain experts 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+Specifically, this former work involves developing and applying novel microbial bioinformatics and machine learning approaches to better understand the diagonsis, evolution, and dynamics of infectious diseases.
+We largely work on problems related to antimicrobial resistance (AMR) and, in the last couple of years, the COVID-19 pandemic with national and international consortia of clinicians and public health experts.
+Whereas, our broader collaborative data science works includes work exploring online radicalisation with sociologists, patient preference at refugee clinics, and autism-related language-use.
+
+For more details about specific projects, collaborators, and funding sources see [Research](research)).
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="1000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -18,29 +26,25 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/PhD_network.png" alt="Slide 1" width="500" height="600"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/emist.jpg" alt="Slide 2" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/hamr.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/urology.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/etd.png" alt="Slide 5" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -52,21 +56,13 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+We are located in Dalhousie University and have strong ties with [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/), the [CARD](https://card.mcmaster.ca), and the [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html).
+This also includes national and international consortia such as [IRIDA](https://irida.ca/), [CanCOGeN](https://www.genomecanada.ca/en/cancogen), and [PHA4GE](https://pha4ge.org).
 
+ **We are looking for new enthusiastic and creative PhD students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from Dalhousie University, [CIHR](https://cihr-irsc.gc.ca/e/193.html), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), [CANMOD](https://canmod.net/), [Genome Canada](https://www.genomecanada.ca/), and [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/funders.png" style="width: 300px">
 </figure>

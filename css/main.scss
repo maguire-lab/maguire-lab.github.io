@@ -1,4 +1,5 @@
----
+--ght: 150px; //this can be whatever you want
+}-
 ---
     
 @import "bootstrap";
@@ -91,3 +92,6 @@ firstp {
     margin-right: 30px;
 }
 
+.carousel-inner>.item>img, .carousel-inner>.item>a>img{
+    height:150px;
+}
