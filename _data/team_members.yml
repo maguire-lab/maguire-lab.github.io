@@ -1,7 +1,9 @@
 - name: Finlay Maguire
   photo: maguiref.png
-  info: Assistant Professor, started Jan 2022 
+  info: Principal Investigator, started Jan 2022 
   email: finlay.maguire@dal.ca
+  github: https://github.com/fmaguire
+  twitter: https://twitter.com/finlaym
   number_educ: 5
   education1: Donald Hill Fellowship (Computer Science), Dalhousie University
   education2: Postdoctoral Fellowship (Computer Science) Dalhousie University with <a href="https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html">Prof. Robert Beiko</a>
@@ -12,7 +14,9 @@
 - name: Peter Jentsch
   photo: 
   info: Postdoctoral Fellow, started Nov 2021
-  email: 
+  email: pjentsch@uwaterloo.ca
+  github: https://github.com/pcjentsch
+  twitter: https://twitter.com/pcjentsch
   number_educ: 2
   education1: PhD (Applied Maths) with <a href="https://uwaterloo.ca/applied-mathematics/people-profiles/chris-bauch">Prof. Chris Bauch</a> and <a href="https://uwaterloo.ca/complexity-innovation/people-profiles/madhur-anand">Prof. Madhur Anand</a>
   education2: BSc Hons (Applied Maths), University of Waterloo

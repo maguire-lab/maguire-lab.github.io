@@ -11,7 +11,7 @@ email: finlay.maguire@dal.ca
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Maguire Lab at Dalhousie.
 baseurl: ""
-url: "https://maguire-lab.github.io"
+url: ""
 
 include:
   - .htaccess
