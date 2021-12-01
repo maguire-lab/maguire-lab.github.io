@@ -16,8 +16,9 @@ url: "https://maguire-lab.github.io"
 
 include:
   - .htaccess
-  - _pages
   - _layouts
+  - _includes
+  - _pages
 
 sass:
   sass_dir: _sass
