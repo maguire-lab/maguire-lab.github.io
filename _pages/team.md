@@ -8,11 +8,8 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD and undergraduate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new enthusiastic and creative PhD students to [join the team]({{ site.url }}{{ site.baseurl }}/jobs)!** 
 
-
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -23,9 +20,17 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}{% if member.github != 0 %}
+<a href="{{ member.github }}/"> <i class="fa fa-github" style="color:black; font-size:24px;"></i></a>
+{% endif %}
+{% if member.twitter != 0 %}
+<a href="{{ member.twitter }}/"> <i class="fa fa-twitter" style="color:#0084b4; font-size:24px;"></i></a>
+{% endif %}
+</h4>
+
+<i>{{ member.info }}<br></i>
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -59,7 +64,13 @@ permalink: /team/
   {% endif %}
 
   </ul>
+{% if member.info != 0 %}
+{{member.project}}
+{% endif %}
+
 </div>
+
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 

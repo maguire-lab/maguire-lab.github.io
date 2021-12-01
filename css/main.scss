@@ -1,7 +1,6 @@
---ght: 150px; //this can be whatever you want
-}-
 ---
-    
+# main.scss
+---
 @import "bootstrap";
 
 img { margin-bottom: 24px; 
@@ -12,10 +11,11 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 70px;
+    text-align: justify;
 }
 
 figcaption {
-    text-align: right;
+    text-align: justify;
     margin-top: -20px;
     margin-bottom: 20px;
 }
@@ -23,8 +23,6 @@ figcaption {
 
 
 /* Top navigation bar */
-
-
 p.byline {
 	text-align: center;
 	font-size: 18px;
@@ -49,7 +47,7 @@ firstp {
 
 /* Home, News */
 #newsid p {
-	text-align: left;
+	text-align: justify;
 }
 
 #homeidtmp h1 {
@@ -85,7 +83,8 @@ firstp {
 /* Carusel */
 
 .carousel {
-    border-radius: 3px 3px 3px 3px;
+    border-radius: 0px 0px 0px 0px;
+    overflow: hidden;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 30px;
@@ -93,5 +92,6 @@ firstp {
 }
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img{
-    height:150px;
+    height:250px;
 }
+.fa { display:inline; }

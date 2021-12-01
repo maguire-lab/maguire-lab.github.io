@@ -1,9 +1,9 @@
 ---
-title: "Maguire Lab - Research"
+title: "Maguire Lab - Teaching"
 layout: textlay
-excerpt: "Maguire Lab -- Research"
+excerpt: "Maguire Lab -- Teaching"
 sitemap: false
-permalink: /research/
+permalink: /teaching/
 ---
 
 # Research

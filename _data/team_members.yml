@@ -1,23 +1,22 @@
 - name: Finlay Maguire
   photo: maguiref.png
   info: Principal Investigator, started Jan 2022 
+  project: Trying not to get in the way of more talented lab members while keeping the lights on. 
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
   twitter: https://twitter.com/finlaym
-  number_educ: 5
-  education1: Donald Hill Fellowship (Computer Science), Dalhousie University
-  education2: Postdoctoral Fellowship (Computer Science) Dalhousie University with <a href="https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html">Prof. Robert Beiko</a>
-  education3: PhD (Bioinformatics) University College London & Natural History Museum, London with <a href="https://protists.co.uk/thomas_richards.html">Prof. Thomas Richards</a>
-  education4: Research Fellowship, NASA (Space Life Sciences Laboratory) 
-  education5: MA (Life Sciences) Oxford University
+  number_educ: 2
+  education1: PhD (Bioinformatics) UCL & NHM with <a href="https://protists.co.uk/thomas_richards.html">Thomas Richards</a>
+  education2: MA (Life Sciences) Oxford 
 
 - name: Peter Jentsch
-  photo: 
+  photo: jentschp.jpg
+  project: Modelling efficacy of NPIs on controlling SARS-CoV-2 variant dynamics in vulnerable populations (Joint with Dr. Samira Mubareka at Sunnybrook)
   info: Postdoctoral Fellow, started Nov 2021
   email: pjentsch@uwaterloo.ca
   github: https://github.com/pcjentsch
   twitter: https://twitter.com/pcjentsch
   number_educ: 2
-  education1: PhD (Applied Maths) with <a href="https://uwaterloo.ca/applied-mathematics/people-profiles/chris-bauch">Prof. Chris Bauch</a> and <a href="https://uwaterloo.ca/complexity-innovation/people-profiles/madhur-anand">Prof. Madhur Anand</a>
-  education2: BSc Hons (Applied Maths), University of Waterloo
+  education1: PhD (Applied Maths) Waterloo, with <a href="https://uwaterloo.ca/applied-mathematics/people-profiles/chris-bauch">Chris Bauch</a> & <a href="https://uwaterloo.ca/complexity-innovation/people-profiles/madhur-anand">Madhur Anand</a>
+  education2: BSc Hons (Applied Maths), Waterloo
 

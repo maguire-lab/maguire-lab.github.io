@@ -6,12 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-## Group highlights
-
-(For a full list of up to date publications go to [Google Scholar](https://scholar.google.ca/citations?user=rHFCtWwAAAAJ&hl=en))
+For a full list of up to date publications go to [Google Scholar](https://scholar.google.ca/citations?user=rHFCtWwAAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,11 +48,3 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
