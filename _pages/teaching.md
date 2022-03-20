@@ -6,42 +6,71 @@ sitemap: false
 permalink: /teaching/
 ---
 
-# Research
-TODO
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+# Dalhousie Courses
+
+## Applied Research in Health Data Science (CSCI6XXX/CHE6XXX)
+Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
+
+This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
+It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
+
+A preliminary syallbus is available [here](https://maguire-lab.github.io/assets/courses/20220319_syallabus_research_in_health_data_science.pdf).
 
 
-## Genomic Epidemiology
+## Genomic Medicine: Infectious Disease to Cancer (CSCI6XXX/CHE6XXX)
+This course is still under developement but will be a broad introduction to the ways in which
+genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
 
-This focused is largely focused around working with public health and clinicians to better understand the diagonsis, evolution, and dynamics of infectious diseases.
-Specifically, we develop and apply microbial bioinformatics and machine learning approaches use genomic/metagenomic data to answer these types of questions.
-This work largely focuses on Antimicrobial Resistance (AMR) with 
+This course is offered jointly to the graduate students across the Faculty of Medicine (and listed within [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html)) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 
-This involves close collaborations with the [Comprehensive Antibiotic Resistance Database](card.mcmaster.ca/), [Public Health Agency of Canada's](https://www.canada.ca/en/public-health.html) [National Microbiology Lab](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), [Agriculture and Agri-Food Canada](https://agriculture.canada.ca/en), the [Canadian Food Inspection Agency](https://inspection.canada.ca/eng/1297964599443/1297965645317).
+It is also open to advanced undergraduates as a final year elective.
 
+## Probability and Statistics for CS (CSCI2XXX)
+Originally developed by Thomas Trappenberg this is an undergraduate course offered within the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/undergraduate-programs.html).
 
-collaborators in [Prof. Robert Beiko's] and [Prof. Andrew McArthur's] groups
+This course is an introduction to probability theory and statistics with applications to computer
+science, in particular to data science and experimental CS. Students will be introduced to the idea of
+random numbers and the formal language of reasoning with uncertainty as well as with the basic
+tools and an outlook of advanced tool for experimental investigations in computer science such as
+HCI. What is a random number, probability mass and density functions, data analytics, probabilistic
+reasoning, basic hypothesis testing, sample size estimation, and inter-rater reliability. Applications
+and relevance of these concepts in computer science will be emphasized.
 
+# Other Courses
 
+## MicroResearch
+This is a workshop that provides multidisciplinary research training and hands-on mentorship for the development of pilot health research projects.
+The aim of this workshop is to bring together diverse individuals with limited prior research experience and help them develop the capacity to ask their own research questions.
+The initiative then provides funding to enact small/pilot projects emerging from these proposals.
 
-As of the start of the COVID-19 pandemic we have been actively involved in the development of [viral genomic analysis workflows](github.com/jaleezyy/covid-19-signal), [quality control metrics](github.com/jts/ncov-tools/), and [lineage assignment tools](github.com/cov-lineages/pangolin). We have also 
+More details about MicroResearch can be found [here](http://www.microresearch.ca/)
 
+## Canadian Bioinformatics Workshop: Infectious Disease Genomic Epidemiology
+With increasing adoption of Next Generation Sequencing technologies to infectious disease surveillance and outbreak investigations, genomic epidemiology (combining pathogen genomics data with epidemiological investigations to track the spread of infectious diseases) is poised to change the practices of public health and infection controls and provides unprecedented amount of data for pathogen evolution studies.
 
+The CBW has developed a 3-day course providing an introduction to genomic epidemiology analysis followed by hands-on practical tutorials demonstrating the use selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.
 
+Participants will gain practical experience and skills to be able to:
 
-Through this we actively contribute to several national and international public health consortia including the [Canadian COVID Genomics Network](https://www.genomecanada.ca/en/cancogen) (CanCOGeN) and [Public Health Alliance For Genomic Epidemiology](https://pha4ge.org/) (PHA4GE).
-We also have strong ties and lead pathogenomic bioinformatics for [Sunnybrook's](https://sunnybrook.ca/research/) Shared Hospital Laboratory 
-Our work in these areas have been funded by [CIHR](), [Genome Canada](), and [JPI-AMR]().
+- Understand next generation sequencing (NGS) platforms as applied to pathogen genomics and metagenomics sequencing
+	
+- Analyze NGS data for pathogen surveillance and outbreak investigations
 
+- Analyze antimicrobial resistance genes
 
+- Detect emerging pathogens in metagenomics data
 
+- Perform phylogeographic analysis
 
+- Use different visualization tools for genomic epidemiology analysis
 
+Course materials and recordings from the 2021-OCT-4 offering is freely available [here](https://bioinformaticsdotca.github.io/IDE_2021)
 
-## Collaborative Data Science
+## Genomics for Antimicrobial Resistance Workshop
 
+This was a joint initiative between CLIMB-BIG-DATA, Public Health Alliance for Genomic Epidemiology (PHA4GE) and Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) workshop.
+This workshop was developed to provide high-level training in the genomics methods for the analysis of antimicrobial resistance.
+It was designed to help build AMR-genomics capacity for academic, clinical, and public health groups.
 
+Course materials and recordings from the 2021-OCT-15 offering are available freely online [here](https://www.climb.ac.uk/amr-workshop/)
 
-
-### ... and more.

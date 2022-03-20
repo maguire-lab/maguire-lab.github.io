@@ -43,10 +43,8 @@ If you are interested in pursuing a summer internship or honours project, please
 
 Current projects that would be a good fit (although if you have your own idea :
 
-- Computational Social Science: Using Natural Language Processing methods to investigate online radicalisation. Building on existing work with colleagues in Sociology (e.g., [recent qualitative work](https://journals.sagepub.com/doi/full/10.1177/1097184X211017954)). Would be a great fit for any student interested in NLP, computational social science, social media data, or radicalisation.
 
 - Infectious Disease Bioinformatics/Genomic Epidemiology: Working with clinicians, public health experts to continue development of the [Evolving Threat Detector](https://github.com/fmaguire/evoling_threat_detector). This is a tool that is designed to identify and report new evolving resistance to antibiotics. Great fit for any student interested in front-end development, microbial bioinformatics, machine learning, and/or working as part of an international consortia.
-
 
 <figure>
 <img src="{{ site.baseurl }}/images/research/2022_summer_projects.png" width="1000">
@@ -58,4 +56,6 @@ Current projects that would be a good fit (although if you have your own idea :
 You find the past job openings here:
 
 - [CANMOD Postdoctoral Fellow]({{ site.baseurl }}/assets/jobs/2021_canmod_postdoc.pdf)
+
+- USRA: Computational Social Science. Using Natural Language Processing methods to investigate online radicalisation. Building on existing work with colleagues in Sociology (e.g., [recent qualitative work](https://journals.sagepub.com/doi/full/10.1177/1097184X211017954)). Would be a great fit for any student interested in NLP, computational social science, social media data, or radicalisation. 
 
