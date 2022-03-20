@@ -8,7 +8,7 @@ permalink: /teaching/
 
 # Dalhousie Courses
 
-## Applied Research in Health Data Science (CSCI6XXX/CHE6XXX)
+## Applied Research in Health Data Science (6XXX)
 Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
 
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
@@ -17,7 +17,7 @@ It is also open to advanced undergraduates with prior experience with statistics
 A preliminary syallbus is available [here](https://maguire-lab.github.io/assets/courses/20220319_syallabus_research_in_health_data_science.pdf).
 
 
-## Genomic Medicine: Infectious Disease to Cancer (CSCI6XXX/CHE6XXX)
+## Genomic Medicine (6XXX/4XXX)
 This course is still under developement but will be a broad introduction to the ways in which
 genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
 
@@ -45,12 +45,11 @@ The initiative then provides funding to enact small/pilot projects emerging from
 
 More details about MicroResearch can be found [here](http://www.microresearch.ca/)
 
-## Canadian Bioinformatics Workshop: Infectious Disease Genomic Epidemiology
-With increasing adoption of Next Generation Sequencing technologies to infectious disease surveillance and outbreak investigations, genomic epidemiology (combining pathogen genomics data with epidemiological investigations to track the spread of infectious diseases) is poised to change the practices of public health and infection controls and provides unprecedented amount of data for pathogen evolution studies.
+## CBW: Infectious Disease Genomic Epidemiology
+This is a workshop as part of the Canadian Bioinformatics Workshop series 
+It is a 3-day course that provides an introduction to genomic epidemiology analysis and hands-on practical tutorials demonstrating the use selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.
 
-The CBW has developed a 3-day course providing an introduction to genomic epidemiology analysis followed by hands-on practical tutorials demonstrating the use selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.
-
-Participants will gain practical experience and skills to be able to:
+Participants gain practical experience and skills to be able to:
 
 - Understand next generation sequencing (NGS) platforms as applied to pathogen genomics and metagenomics sequencing
 	
