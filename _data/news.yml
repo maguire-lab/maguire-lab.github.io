@@ -1,10 +1,22 @@
-- date: "7 March 2022"
+- date: 20 June 2022
+  headline: "Completion of first offering of our new ['Applied Research in Health Data Science'](https://maguire-lab.github.io/health_data_science_research/) graduate course'"
+- date: 18 June 2022
+  headline: "Work generating benchmarking datasets at the PHA4GE/JPI-AMR/MRC-CLIMB hhackathon in 2021 was published in [Nature Scientific Data](https://www.nature.com/articles/s41597-022-01463-7)"
+- date: 16 June 2022
+  headline: "Our group was awarded 2 SSHRC Insight Development Grants (details to follow after embargo is lifted)"
+- date: 10 June 2022
+  headline: "Collaborative work led by Arinjay Banerjee looking at neutralisation across SARS-CoV-2 variants of concern has been published in [Cell med](https://www.sciencedirect.com/science/article/pii/S2666634022001684)"
+- date: 25 May 2022
+  headline: "Jee-in Kim's review on machine learning based antimicrobial resistance phenotype prediction was published in [Clinical Microbiology Reviews](https://journals.asm.org/doi/abs/10.1128/cmr.00179-21)"
+- date: 20 May 2022
+  headline: "A case report led by Dr. Alice Zhabokritsky characterising a chronic COVID-19 infection associated with HIV was published in [Infection Control & Hospital Epidemiology](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/persistent-infection-with-sarscov2-in-a-person-with-untreated-hiv/F42D9F77A41541CFC23986F09BC5DC60)"
+- date: 7 March 2022
   headline: "The SARS-CoV-2 deer research was featured in a [joint WHO/FAO/OIE statement](https://www.who.int/news/item/07-03-2022-joint-statement-on-the-prioritization-of-monitoring-sars-cov-2-infection-in-wildlife-and-preventing-the-formation-of-animal-reservoirs) on the importance of wildlife surveillance during the pandemic."
-- date: "26 February 2022"
+- date: 26 February 2022
   headline: "Our [pre-print](https://www.biorxiv.org/content/10.1101/2022.02.22.481551) identifying a new and very divergent SARS-CoV-2 virus in deer with a possible deer-to-human transmission was released ([summarised here](https://twitter.com/FinlayM/status/1497614846539534344))"
-- date: "16 February 2022"
+- date: 16 February 2022
   headline: "The PHA4GE SARS-CoV-2 metadata spec that we developed (and is used by INSDC databases) was published in [GigaScience](https://doi.org/10.1093/gigascience/giac003)"
-- date: "01 January 2022"
+- date: 01 January 2022
   headline: "Our research group at Dalhousie officially started jointly in Epidemiology and Computer Science"
 - date: 08 December 2021
   headline: "Invited presentation of the lab's work on AMR metagenomics at the [Seq4AMR](https://www.jpiamr.eu/projects/seq4amr/) grop meeting."
@@ -14,3 +26,4 @@
   headline: "Our public health work during the COVID-19 pandemic paper has been featured in an article in the [Globle & Mail Newspaper](https://www.theglobeandmail.com/canada/article-in-genetic-arms-race-with-covid-19-variants-canadas-labs-fight-for/)."
 - date: 24 November 2021
   headline: "Dr. Peter C Jentsch has started a joint postdoctoral position with us and Samira Mubareka to investigate how well different public health interventions control SARS-CoV-2 variant dynamics in vulnerable populations."
+
