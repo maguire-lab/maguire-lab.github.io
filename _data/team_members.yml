@@ -1,31 +1,30 @@
 - name: Finlay Maguire
   photo: maguiref.png
   info: Principal Investigator, started Jan 2022 
-  project: Trying not to get in the way of more talented lab members while keeping the lights on. 
+  project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at the [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Faculty in the [Institute for Comparative Genomics](https://icgenomics.ca/), and with adjunct appointments at [Sunnybrook Research Institute](https://sunnybrook.ca/research/) and [Nova Scotia Health](https://www.nshealth.ca/).
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
   twitter: https://twitter.com/finlaym
-  number_educ: 2
-  education1: PhD (Bioinformatics) UCL & NHM with <a href="https://protists.co.uk/thomas_richards.html">Thomas Richards</a>
-  education2: MA (Life Sciences) Oxford 
+  number_educ: 3
+  education1: Donald Hill Fellow (Computer Science) Dalhousie with [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
+  education2: PhD (Bioinformatics) UCL & NHM with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
+  education3: MA (Life Sciences) Oxford 
 
 - name: Peter Jentsch
   photo: jentschp.jpg
-  project: Modelling efficacy of NPIs on controlling SARS-CoV-2 variant dynamics in vulnerable populations (Joint with Dr. Samira Mubareka at Sunnybrook)
+  project: Modelling efficacy of NPIs on controlling SARS-CoV-2 variant dynamics in vulnerable populations (Joint with [Dr. Samira Mubareka](https://sunnybrook.ca/research/team/member.asp?t=12&m=417&page=529) at Sunnybrook) including developing approaches to integrate genomic data/distances directly into infectious disease compartmental models.
   info: Postdoctoral Fellow, started Nov 2021
   email: pjentsch@uwaterloo.ca
   github: https://github.com/pcjentsch
   twitter: https://twitter.com/pcjentsch
   number_educ: 2
-  education1: PhD (Applied Maths) Waterloo, with <a href="https://uwaterloo.ca/applied-mathematics/people-profiles/chris-bauch">Chris Bauch</a> & <a href="https://uwaterloo.ca/complexity-innovation/people-profiles/madhur-anand">Madhur Anand</a>
+  education1: PhD (Applied Maths) Waterloo, with [Chris Bauch]( https://uwaterloo.ca/applied-mathematics/people-profiles/chris-bauch) & [Madhur Anand](https://uwaterloo.ca/complexity-innovation/people-profiles/madhur-anand)
   education2: BSc Hons (Applied Maths), Waterloo
 
 - name: Yuan Wang
   photo: nopic.png 
-  project: NLP approaches to improve prediction of radicalisation online (in collaboration with Dr. Michael Halpin in Sociology)
+  project: Developing natural language processing (NLP) approaches to improve prediction of language-change/radicalisation in incel online communities (in collaboration with [Dr. Michael Halpin](https://www.dal.ca/faculty/arts/sociology-social-anthropology/faculty-staff/our-faculty/michael-halpin.html) in Sociology)
   info: Undergraduate Student Research Associate, started May 2022
   number_educ: 2
-  education1: BCS (Computer Science), Dalhousie/Peking University 
+  education1: BCS (Computer Science), Dalhousie/Peking University (in-progress)
   education2: BE (Economics), Capital University of Economics and Business
-
-
