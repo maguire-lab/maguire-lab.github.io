@@ -49,6 +49,14 @@ For more details about specific projects, collaborators, and funding sources see
 We are located in Dalhousie University and have strong ties with [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/), the [CARD](https://card.mcmaster.ca), and the [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html).
 This also includes national and international consortia such as [IRIDA](https://irida.ca/), [CanCOGeN](https://www.genomecanada.ca/en/cancogen), and [PHA4GE](https://pha4ge.org).
 
+### Joining the Lab 
+
  **We are looking for new enthusiastic and creative PhD students to [join the team]({{ site.url }}{{ site.baseurl }}/jobs)!** 
 
+### Funding
+
 We are grateful for funding from Dalhousie University, [CIHR](https://cihr-irsc.gc.ca/e/193.html), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), [CANMOD](https://canmod.net/), [Genome Canada](https://www.genomecanada.ca/), and [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx).
+
+<figure class="fourth">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/funders_col.png" style="width: 200px">
+</figure>

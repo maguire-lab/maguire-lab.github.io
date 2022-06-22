@@ -8,25 +8,13 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
-h1 {
-    text-align: left;
-}
-
-h2 {
-    text-align: left;
-}
-
-h3 {
-    text-align: left;
-}
 
 body {
 	padding-top: 70px;
-    text-align: justify;
 }
 
 figcaption {
-    text-align: justify;
+    text-align: right;
     margin-top: -20px;
     margin-bottom: 20px;
 }
@@ -42,14 +30,6 @@ p.byline {
 	margin-bottom: 48px;
 }
 
-
-pubtit {
-	font-weight: bold;
-}
-
-firstp {
-}
-
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
@@ -58,8 +38,12 @@ firstp {
 
 /* Home, News */
 #newsid p {
-	text-align: justify;
+	text-align: left;
 }
+#homeidtmp h1 {
+	text-align: center;
+}
+
 
 #homeidtmp h1 {
 	text-align: center;
@@ -105,4 +89,80 @@ firstp {
 .carousel-inner>.item>img, .carousel-inner>.item>a>img{
     height:250px;
 }
+
+/* Content text */
+.content {
+	padding-left: 26px;
+	padding-right: 26px;
+  font-size: 16px;
+	font-weight: 300;
+  font-style: normal;
+}
+
+/* Content text */
+.content-photo {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.alumni1 {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 12px;
+}
+
+.alumni2 {
+	font-size: 15px;
+	font-weight: 200;
+	line-height: 10px;
+	padding-left: 20px;
+}
+
+.pub1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	font-weight: 300;
+	line-height: 23px;
+  color: black;
+  cursor:pointer;
+}
+
+.pub1:hover{
+color:black;
+  text-decoration: underline;
+  text-decoration-color: darkgray;
+}
+
+.pub2 {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+	font-size: 16px;
+  font-weight: 200;
+  color: black;
+  pointer-events: none;
+}
+
+.bigspacer {
+	height: 20px;
+}
+
+.regtext {
+	font-size: 16px;
+  color: black;
+  cursor:pointer;
+}
+
+regtext:hover{
+color:black;
+  text-decoration: underline;
+  text-decoration-color: darkgray;
+}
+
+.center {
+  text-align: center;
+}
+
+.clear {
+  clear: both;
+}
+
 .fa { display:inline; }
