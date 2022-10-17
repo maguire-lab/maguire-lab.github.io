@@ -14,24 +14,42 @@ permalink: /jobs
 
 ## PhD Studentship
 
-### Novel Metagenomic Approaches to Inferring the Evolution of Infectious Diseases
+Open positions are available if you have a specific project you are interested in and wish to jointly develop a scholarship application.
+Details of the application process including timelines can be found [here](https://docs.google.com/document/d/1dizV5CEkasOZD_lmbiPf0akGC3Opm99VGN41IQFj64U/edit).
 
-Metagenomics is the sequencing the DNA from an entire microbial community at once. This type of data is used to try to understand and prevent the spread of antibiotic resistance and diseases such as COVID-19.  Metagenomic data is big, fragmented, and noisy so presents distinct algorithmic challenges.  This work will involve development of new software based on graph theory, machine learning, and model-based optimisation to systematically map patterns of evolution in clinical/public health datasets.  
-We are hiring two funded PhD students and the ideal candidates will have a strong interest in bioinformatics, graph theory, and working with clinical and government collaborators.
+### 2 Funded PhDs developing tools for the diagnosis and surveillance of antimicrobial resistance
 
-**Project 1**: focuses on the systematic optimisation of complex bioinformatics workflows using sequential-model based optimisation approaches. This will be used to improve and extend existing approaches for the use of metagenomic data for rapid diagnostics and surveillance of new emerging infectious diseases and antimicrobial resistance.
+**Project #1**: development of methods for automatically identifying novel and evolving antimicrobial resistance (AMR) genes. This will build on existing efforts to characterise AMR genes in large genome databases and will incorporate genomic, phylogenetic, spatiotemporal, and phenotypic data. 
 
-<figure>
-<img src="{{ site.baseurl }}/images/research/mag_opt.png" width="800">
-</figure>
+**Project #2**: combining machine learning and metagenomic sequence graph approaches to track and predict the evolution of AMR genes between clinical, agricultural, urban, and wildlife samples.  This project will build on preliminary work with tools such as Sarand.
 
-**Project 2**: will extended work with [Sarand](https://github.com/somayeh-aut/sarand) to develop graph theory and machine learning approaches to track and predict the evolution of antimicrobial resistance between clinical, agricultural, urban, and wildlife samples.
+These projects will involve existing collaborations with clinicians (Toronto’s Shared Hospital Laboratory and Sunnybrook Research Institute), public health agencies (PHAC/NML & CFIA/NCFAD), and infectious disease researchers including local experts in evolutionary microbiology and Dr. Andrew McArthur’s Comprehensive Antibiotic Resistance Database (card.mcmaster.ca) group at McMaster University.
 
 <figure>
-<img src="{{ site.baseurl }}/images/research/sarand.png" width="500">
+<img src="{{ site.baseurl }}/images/research/phd_projects.png" width="1000">
 </figure>
 
-If you are interested in either project or have an idea related to them please send me an [email](mailto:finlay.maguire@dal.ca) with your CV attached and we can arrange a chat!
+
+Candidates should have:
+- A Masters degree in any of Computer Science, Microbiology, Molecular Biology, Epidemiology or related fields.  
+- GPA of at least 3.4/4 (approx. 3.7/4.3 or or 8.6/10 or 17/20) or equivalent.
+- Demonstrated fluency in English (e.g., first language, degrees taught in English, IELTS (all categories of >=7), TOEFL (>=95) or equivalent test results).
+- Experience with data visualisation and analysis including familiarity with a scripting language (e.g., Python).
+- Ability to work independently and within a team environment
+- Effective oral and written communication, analytical, and interpersonal skills. 
+
+Prior experience in bioinformatics is not necessary but it is not desired.  We encourage all qualified applicants to apply.
+This lab is strongly committed to diversity within its community and especially welcomes applications from racialized persons / persons of colour, women, Indigenous / Aboriginal People of North America, persons with disabilities, LGBTQ2S+ persons, and others who may contribute to the further diversification of ideas. Our values regarding equity and diversity are linked with our commitment to excellence in the pursuit of our academic mission.
+
+Interested individuals should send:
+- Brief cover letter including which project you are interested in and why, most relevant experience, and career goals.
+- CV detailing academic training and research to date.
+- Unofficial academic transcripts.
+
+Applicants who meet preliminary screening will be invited for an interview and 2 references will be requested prior to final hiring decisions.
+
+Please send applications to [finlay.maguire@dal.ca](mailto:finlay.maguire@dal.ca). In the body of your email, please mention your earliest availability date.
+Keywords: Algorithms; Biomedical; Biostatistics; Infectious Diseases; Computational Machine Learning; Microbial Pathogenomics
 
 ## Research in Medicine or Residency Research Projects
 
