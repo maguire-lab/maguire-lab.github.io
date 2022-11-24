@@ -11,8 +11,8 @@ permalink: /research/
 Our work revolves around developing new ways to apply data to collaboratively try and solve health and social crises.
 This involves two main areas: genomic epidemiology of infectious diseases (including microbial bioinformatics more widely) and health data science.
 
-<figure class="fourth">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png", style="1000">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png", width="1000">
 </figure>
 
 ## Genomic Epidemiology
