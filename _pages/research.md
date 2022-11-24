@@ -12,7 +12,7 @@ Our work revolves around developing new ways to apply data to collaboratively tr
 This involves two main areas: genomic epidemiology of infectious diseases (including microbial bioinformatics more widely) and health data science.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png", width="1000">
+<img src="{{ site.baseurl }}/images/research/research_overview.png", width="1000">
 </figure>
 
 ## Genomic Epidemiology
