@@ -23,7 +23,7 @@ For more details about specific projects, collaborators, and funding sources see
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png" alt="Lab Overview"/>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/PhD_network.png" alt="Multi-Omic Network"/>
         </div>
         <div class="item">
@@ -61,5 +61,5 @@ This also includes national and international public health consortia such as [I
 We are grateful for funding from Dalhousie University, [CIHR](https://cihr-irsc.gc.ca/e/193.html), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), [CANMOD](https://canmod.net/), [Genome Canada](https://www.genomecanada.ca/), [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx), and (via PHA4GE) the [BMGF](https://www.gatesfoundation.org/).
 
 <figure class="fourth">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/funders_col.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/funders.png" style="width: 200px">
 </figure>
