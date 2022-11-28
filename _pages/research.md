@@ -11,8 +11,8 @@ permalink: /research/
 Our work revolves around developing new ways to apply data to collaboratively try and solve health and social crises.
 This involves two main areas: genomic epidemiology of infectious diseases (including microbial bioinformatics more widely) and health data science.
 
-<figure>
-<img src="{{ site.baseurl }}/images/research/research_overview.png", width="1000">
+<figure class="fourth">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png" style="width: 400px">
 </figure>
 
 ## Genomic Epidemiology
@@ -22,7 +22,7 @@ Specifically, we develop and apply microbial bioinformatics and machine learning
 
 This work largely focuses on methods to improve surveillance and diagonsis of Antimicrobial Resistance (AMR) in collaboration with the [Comprehensive Antibiotic Resistance Database](https://card.mcmaster.ca/), [Public Health Agency of Canada's](https://www.canada.ca/en/public-health.html) [National Microbiology Lab](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), [Agriculture and Agri-Food Canada](https://agriculture.canada.ca/en), the [Canadian Food Inspection Agency](https://inspection.canada.ca/eng/1297964599443/1297965645317).
 
-As of the start of the COVID-19 pandemic we have been actively involved in the development of [viral genomic analysis workflows](github.com/jaleezyy/covid-19-signal), [quality control metrics](github.com/jts/ncov-tools/), and [lineage assignment tools](github.com/cov-lineages/pangolin). This has led our group to lead pathogenomic bioinformatics at [Sunnybrook's](https://sunnybrook.ca/research/) Shared Hospital Laboratory.
+As of the start of the COVID-19 pandemic we have been actively involved in the development of [viral genomic analysis workflows](github.com/jaleezyy/covid-19-signal), [quality control metrics](github.com/jts/ncov-tools/), as well as contributions to widely used [lineage assignment tools](github.com/cov-lineages/pangolin). This has led our group to lead pathogenomic bioinformatics at Toronto's Shared Hspital Lab (located at [Sunnybrook](https://sunnybrook.ca/research/)).
 We also actively contribute to several national and international public health consortia including the [Canadian COVID Genomics Network](https://www.genomecanada.ca/en/cancogen) (CanCOGeN) and [Public Health Alliance For Genomic Epidemiology](https://pha4ge.org/) (PHA4GE).
 
 ## Collaborative Data Science

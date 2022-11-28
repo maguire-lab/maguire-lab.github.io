@@ -17,9 +17,12 @@ Whereas, our broader collaborative data science works includes work exploring on
 
 For more details about specific projects, collaborators, and funding sources see [Research](research)).
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="7000" data-pause="hover" >
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png" alt="Lab Overview"/>
+        </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/PhD_network.png" alt="Multi-Omic Network"/>
         </div>
@@ -46,8 +49,8 @@ For more details about specific projects, collaborators, and funding sources see
   </a>
 </div>
 
-We are located in Dalhousie University and have strong ties with [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/), the [CARD](https://card.mcmaster.ca), and the [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html).
-This also includes national and international consortia such as [IRIDA](https://irida.ca/), [CanCOGeN](https://www.genomecanada.ca/en/cancogen), and [PHA4GE](https://pha4ge.org).
+We are located in Dalhousie University and have strong ties to the Shared Hospital Lab located at [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/), the [CARD](https://card.mcmaster.ca), the [Canadian Food Inspection Agency](https://inspection.canada.ca/eng/1297964599443/1297965645317), and the [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html).
+This also includes national and international public health consortia such as [IRIDA](https://irida.ca/), [CanCOGeN](https://www.genomecanada.ca/en/cancogen), and [PHA4GE](https://pha4ge.org).
 
 ### Joining the Lab 
 
@@ -55,7 +58,7 @@ This also includes national and international consortia such as [IRIDA](https://
 
 ### Funding
 
-We are grateful for funding from Dalhousie University, [CIHR](https://cihr-irsc.gc.ca/e/193.html), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), [CANMOD](https://canmod.net/), [Genome Canada](https://www.genomecanada.ca/), and [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx).
+We are grateful for funding from Dalhousie University, [CIHR](https://cihr-irsc.gc.ca/e/193.html), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), [CANMOD](https://canmod.net/), [Genome Canada](https://www.genomecanada.ca/), [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx), and (via PHA4GE) the [BMGF](https://www.gatesfoundation.org/).
 
 <figure class="fourth">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/funders_col.png" style="width: 200px">
