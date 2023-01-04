@@ -14,9 +14,7 @@ Health data science is a rapidly growing research field across academia, governm
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
 
-The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/health_data_science_research/)
-
-A preliminary syallbus is available [here](https://maguire-lab.github.io/assets/courses/20220319_syallabus_research_in_health_data_science.pdf).
+The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/health_data_science_research/) including the [previous syllabus](https://maguire-lab.github.io/assets/courses/20220319_syallabus_research_in_health_data_science.pdf).
 
 ## Bioinformatics Algorithms (CSCI6802/CSCI4181)
 
@@ -27,19 +25,13 @@ Students get hands-on experience via 4 practical assignments and given experienc
 This course was originally created by [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
 It is a graduate course for CS or life sciences (or similar) students that is open to advanced undergraduates as a final year elective.
 
-The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/bioinformatics_algorithms/
+The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/bioinformatics_algorithms/).
 
-## Genomic Medicine (6XXX/4XXX)
-This course is still under developement but will be a broad introduction to the ways in which
-genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
-
-This course is offered jointly to the graduate students across the Faculty of Medicine (and listed within [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html)) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
-
-It will also be open to advanced undergraduates as a final year elective.
 
 ## Professional Competencies 1 (MED1)
 
-This is first longitudinal unit for medical students that includes a weekly two-hour tutorial followed by a one-hour large group session. 
+This is a core course offered throughout the 1st year of medical school at Dalhousie.
+Professional competencies includes a weekly two-hour tutorial followed by a one-hour large group session. 
 This unit provides medical students with the opportunity to integrate their biomedical and clinical learning within the context of patient care from a professional, community and life-long learner perspective.
 
 Content includes public health and infectious disease management in the community, end-of-life decision-making and other ethical challenges, patient safety and other system and quality improvement approaches, social accountability and global health, physician wellness and career paths, and the Health Mentors Program.
@@ -47,7 +39,7 @@ Content includes public health and infectious disease management in the communit
 Key concepts come from population health, epidemiology, ethics, law, informatics, health policy and the humanities. The unit is highly applied and case-based, and closely integrated with the other Med 1 units through shared cases and topics.
 
 ## Probability and Statistics for CS (CSCI2360)
-Originally developed by [Thomas Trappenberg]( ) and is an undergraduate course offered within the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/undergraduate-programs.html).
+Originally developed by [Thomas Trappenberg](https://www.dal.ca/faculty/computerscience/faculty-staff/thomas-trappenberg.html) and is an undergraduate course offered within the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/undergraduate-programs.html).
 
 This course is an introduction to probability theory and statistics with applications to computer
 science, in particular to data science and experimental CS. Students will be introduced to the idea of
@@ -56,6 +48,15 @@ tools and an outlook of advanced tool for experimental investigations in compute
 HCI. What is a random number, probability mass and density functions, data analytics, probabilistic
 reasoning, basic hypothesis testing, sample size estimation, and inter-rater reliability. Applications
 and relevance of these concepts in computer science will be emphasized.
+
+
+## Genomic Medicine (6XXX/4XXX)
+This course is still under developement but will be a broad introduction to the ways in which
+genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
+
+This course is offered jointly to the graduate students across the Faculty of Medicine (and listed within [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html)) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
+
+It will also be open to advanced undergraduates as a final year elective.
 
 
 # Other Courses
