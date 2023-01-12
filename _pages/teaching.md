@@ -8,7 +8,7 @@ permalink: /teaching/
 
 # Dalhousie Courses
 
-## Applied Research in Health Data Science (CSCI6410/CSCI4147/CH&E6XXX)
+## Applied Research in Health Data Science (CSCI6410/CSCI4148/EPAH6410)
 Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
 
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
@@ -51,13 +51,11 @@ and relevance of these concepts in computer science will be emphasized.
 
 
 ## Genomic Medicine (6XXX/4XXX)
-This course is still under developement but will be a broad introduction to the ways in which
-genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
+This course is still under developement but will be a broad introduction to the ways in which genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
 
 This course is offered jointly to the graduate students across the Faculty of Medicine (and listed within [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html)) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 
 It will also be open to advanced undergraduates as a final year elective.
-
 
 # Other Courses
 

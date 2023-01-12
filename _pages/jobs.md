@@ -61,13 +61,13 @@ If you are interested in pursuing a summer internship or honours project, please
 
 Current projects that would be a good fit (although if you have your own idea :
 
-
 - Infectious Disease Bioinformatics/Genomic Epidemiology: Working with clinicians, public health experts to continue development of the [Evolving Threat Detector](https://github.com/fmaguire/evoling_threat_detector). This is a tool that is designed to identify and report new evolving resistance to antibiotics. Great fit for any student interested in front-end development, microbial bioinformatics, machine learning, and/or working as part of an international consortia.
 
-<figure>
-<img src="{{ site.baseurl }}/images/research/2022_summer_projects.png" width="1000">
-</figure>
+- Computational Social Science/Health Data Science: Working with social scientists to develop a database and front-end to support qualitative and natural language processing analyses of text data scraped from social media websites. The goal of this broader project is to characterise radicalisation in online spaces.
 
+<figure>
+<img src="{{ site.baseurl }}/images/research/2023_summer_projects.png" width="1000">
+</figure>
 
 # Past open positions
 
