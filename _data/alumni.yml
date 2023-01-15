@@ -1,7 +1,8 @@
 - name: Peter Jentsch
   photo: jentschp.jpg
   duration: Postdoctoral Fellow 2021-11 to 2022-11
-  info: Worked on improving use of genomic data in epidemiological modelling of SARS-CoV-2 (jointly supervised with [Dr. Samira Mubareka](https://sunnybrook.ca/research/team/member.asp?t=12&m=417&page=529) at Sunnybrook). Now working as a scientific software developer.
+  project: Worked on improving use of genomic data in epidemiological modelling of SARS-CoV-2 (jointly supervised with [Dr. Samira Mubareka](https://sunnybrook.ca/research/team/member.asp?t=12&m=417&page=529) at Sunnybrook). 
+  info: Now working as a scientific software developer.
   email: pjentsch@uwaterloo.ca
   github: https://github.com/pcjentsch
   twitter: https://twitter.com/pcjentsch
