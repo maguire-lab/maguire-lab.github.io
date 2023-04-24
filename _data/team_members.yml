@@ -25,15 +25,8 @@
     #  number_educ: 1
     #  education1: BCS (Computer Science), Dalhousie University (in-progress)
 
-- name: Devarshi Shah
-  photo:
-  project: Evaluating signatures of selection for animal adaptation in SARS-CoV-2 spillover
-  info: Honours student, starting September 2023
-  number_educ: 1
-  education1: BSc (Microbiology), Dalhousie University (in-progress)
-
 - name: Zaharaa Zeinou
-  photo:
+  photo: zeinouz.jpg
   project: Data-mining genomic metadata associated with antimicrobial resistance to measure mismatch between burden and data availability.
   info: CGEP Intern, started April 2023
   number_educ: 1
@@ -52,3 +45,11 @@
   number_educ: 2
   education1: MSc (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
   education2: BSc (Biotechnology), People's Education Society University
+
+- name: Devarshi Shah
+  photo:
+  project: Evaluating signatures of selection for animal adaptation in SARS-CoV-2 spillover
+  info: Honours student, starting September 2023
+  number_educ: 1
+  education1: BSc (Microbiology), Dalhousie University (in-progress)
+
