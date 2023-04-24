@@ -9,9 +9,46 @@
   education1: Donald Hill Fellow (Computer Science) Dalhousie with [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
   education2: PhD (Bioinformatics) UCL & NHM with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
   education3: MA (Life Sciences) Oxford 
-- name: Yuan Wang
-  photo: wangy.jpg
-  project: Developing natural language processing (NLP) approaches to improve prediction of language-change/radicalisation in incel online communities (in collaboration with [Dr. Michael Halpin](https://www.dal.ca/faculty/arts/sociology-social-anthropology/faculty-staff/our-faculty/michael-halpin.html) in Sociology)
-  info: Undergraduate Student Research Associate, started May 2022
+
+- name: David Mahoney
+  photo: mahoneyd.jpg
+  project: Metagenomic graph-based approaches for detection and inference of AMR and LGT
+  info: Interdisciplinary PhD Student, starting June 2023
+  number_educ: 2
+  education1: MSc (Food Science), University of British Columbia
+  education2: BSc (Microbiology), Dalhousie University
+
+    #- name: Muhammad Saim Iqbal
+    #  photo:
+    #  project:
+    #  info: Undergraduate Student Research Associate, started May 2023
+    #  number_educ: 1
+    #  education1: BCS (Computer Science), Dalhousie University (in-progress)
+
+- name: Devarshi Shah
+  photo:
+  project: Evaluating signatures of selection for animal adaptation in SARS-CoV-2 spillover
+  info: Honours student, starting September 2023
   number_educ: 1
-  education1: BCS (Computer Science), Dalhousie/Peking University (in-progress)
+  education1: BSc (Microbiology), Dalhousie University (in-progress)
+
+- name: Zaharaa Zeinou
+  photo:
+  project: Data-mining genomic metadata associated with antimicrobial resistance to measure mismatch between burden and data availability.
+  info: CGEP Intern, started April 2023
+  number_educ: 1
+  education1: CGEP (Health Sciences), Collégial international Sainte-Anne (in-progress)
+
+- name: Yann Guerin
+  photo: gueriny.jpg
+  project: NLP, scraping, and operationalisation of social media to characterise radicalisation.
+  info: Volunteer Research Assistant, started September 2023
+  number_educ: 0
+
+- name: Sneha Murthy co-supervised
+  photo: murthys.jpg
+  project: Improving metagenome-assembled genome approaches for microbial eukaryotes and mobile AMR/VF genes.
+  info: Co-Supervised Beiko Lab Interdisciplinary PhD student, started September 2022
+  number_educ: 2
+  education1: MSc (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
+  education2: BSc (Biotechnology), People's Education Society University

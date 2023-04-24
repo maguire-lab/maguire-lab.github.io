@@ -17,18 +17,15 @@ permalink: /jobs
 Open positions are available if you have a specific project you are interested in and wish to jointly develop a scholarship application.
 Details of the application process including timelines can be found [here](https://docs.google.com/document/d/1dizV5CEkasOZD_lmbiPf0akGC3Opm99VGN41IQFj64U/edit).
 
-### 2 Funded PhDs developing tools for the diagnosis and surveillance of antimicrobial resistance
+### Funded PhD developing tools for the diagnosis and surveillance of antimicrobial resistance
 
-**Project #1**: development of methods for automatically identifying novel and evolving antimicrobial resistance (AMR) genes. This will build on existing efforts to characterise AMR genes in large genome databases and will incorporate genomic, phylogenetic, spatiotemporal, and phenotypic data. 
+**Project**: development of methods for automatically identifying novel and evolving antimicrobial resistance (AMR) genes. This will build on existing efforts to characterise AMR genes in large genome databases and will incorporate genomic, phylogenetic, spatiotemporal, and phenotypic data. 
 
-**Project #2**: combining machine learning and metagenomic sequence graph approaches to track and predict the evolution of AMR genes between clinical, agricultural, urban, and wildlife samples.  This project will build on preliminary work with tools such as Sarand.
-
-These projects will involve existing collaborations with clinicians (Toronto’s Shared Hospital Laboratory and Sunnybrook Research Institute), public health agencies (PHAC/NML & CFIA/NCFAD), and infectious disease researchers including local experts in evolutionary microbiology and Dr. Andrew McArthur’s Comprehensive Antibiotic Resistance Database (card.mcmaster.ca) group at McMaster University.
+This project will involve existing collaborations with clinicians (Toronto’s Shared Hospital Laboratory and Sunnybrook Research Institute), public health agencies (PHAC/NML & CFIA/NCFAD), and infectious disease researchers including local experts in evolutionary microbiology and Dr. Andrew McArthur’s Comprehensive Antibiotic Resistance Database (card.mcmaster.ca) group at McMaster University.
 
 <figure>
-<img src="{{ site.baseurl }}/images/research/phd_projects.png" width="1000">
+<img src="{{ site.baseurl }}/images/research/phd_projects_single.png" width="600">
 </figure>
-
 
 Candidates should have:
 - A Masters degree in any of Computer Science, Microbiology, Molecular Biology, Epidemiology or related fields.  
@@ -59,11 +56,14 @@ If you are a medical student or resident that wishes to do a research project in
 
 If you are interested in pursuing a summer internship or honours project, please send me an [email](mailto:finlay.maguire@dal.ca) early in the academic year so we can try and apply for funding to pay you (e.g., NSERC USRA). State why you are interested, the sort of project you would like to do, and attach your CV. If you are applying to fulfill specific program requirements (e.g., honours), note this in your email!
 
-Current projects that would be a good fit (although if you have your own idea :
+Current projects that would be a good fit (although if you have your own idea please get in touch):
 
 - Infectious Disease Bioinformatics/Genomic Epidemiology: Working with clinicians, public health experts to continue development of the [Evolving Threat Detector](https://github.com/fmaguire/evoling_threat_detector). This is a tool that is designed to identify and report new evolving resistance to antibiotics. Great fit for any student interested in front-end development, microbial bioinformatics, machine learning, and/or working as part of an international consortia.
 
 - Computational Social Science/Health Data Science: Working with social scientists to develop a database and front-end to support qualitative and natural language processing analyses of text data scraped from social media websites. The goal of this broader project is to characterise radicalisation in online spaces.
+
+- Genomic epidemiology of zoonotic viruses
+
 
 <figure>
 <img src="{{ site.baseurl }}/images/research/2023_summer_projects.png" width="1000">
