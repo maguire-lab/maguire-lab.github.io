@@ -1,7 +1,7 @@
 - name: Finlay Maguire
   photo: maguiref.png
   info: Principal Investigator, started Jan 2022 
-  project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at the [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Faculty in the [Institute for Comparative Genomics](https://icgenomics.ca/), and with adjunct appointments at [Sunnybrook Research Institute](https://sunnybrook.ca/research/) and [Nova Scotia Health](https://www.nshealth.ca/).
+  project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at the [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Faculty in the [Institute for Comparative Genomics](https://icgenomics.ca/), and with an adjunct appointment at [Sunnybrook Research Institute](https://sunnybrook.ca/research/).
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
   twitter: https://twitter.com/finlaym
@@ -12,8 +12,11 @@
 
 - name: David Mahoney
   photo: mahoneyd.jpg
-  project: Metagenomic graph-based approaches for detection and inference of AMR and LGT
+  project: NSERC Discovery Grant-funded project based on the development and application of tools to detect lateral gene transfer (LGT) of genes with important microbial functions (such as antimicrobial resistance) from metagenomic assembly graphs. This involves a One Health focus with a priority on identifying intersectoral LGT events (i.e., those between clinical, environmental, agricultural environments). 
   info: Interdisciplinary PhD Student, starting June 2023
+  email: david.Mahoney@dal.ca
+  twitter: 0
+  github: 0
   number_educ: 2
   education1: MSc (Food Science), University of British Columbia
   education2: BSc (Microbiology), Dalhousie University
@@ -25,31 +28,42 @@
     #  number_educ: 1
     #  education1: BCS (Computer Science), Dalhousie University (in-progress)
 
+- name: Devarshi Shah
+  photo: shahd.jpg
+  project: Computational project as part of the WILD-EPI consortium with governmental, clinical, and academic researchers investigating viral spillovers between human and wildlife populations in Canada. This project is focused on identifying and characterising mutational and evolutionary signatures of animal adaptation associated with SARS-CoV-2 spillover and spillback.
+  email: D.Shah@dal.ca
+  twitter: 0
+  github: 0
+  info: Honours student, starting September 2023
+  number_educ: 1
+  education1: BSc (Microbiology), Dalhousie University (in-progress)
+
 - name: Zaharaa Zeinou
   photo: zeinouz.jpg
-  project: Data-mining genomic metadata associated with antimicrobial resistance to measure mismatch between burden and data availability.
+  project: Short-term project developing data analysis and plotting skills to explore genomic metadata in large sequencing databases. This is being used with global burden of disease data to measure the mismatch between AMR health burden and the availability of microbial sequencing.
+  email: zz.gdy.2018@gmail.com
+  github: https://github.com/zzeinou
+  twitter: 0
   info: CGEP Intern, started April 2023
   number_educ: 1
   education1: CGEP (Health Sciences), Collégial international Sainte-Anne (in-progress)
 
 - name: Yann Guerin
   photo: gueriny.jpg
-  project: NLP, scraping, and operationalisation of social media to characterise radicalisation.
-  info: Volunteer Research Assistant, started September 2023
+  email: yannguerin3013@gmail.com
+  twitter: 0
+  github: https://github.com/yannguerin
+  project: SSHRC Insight Development Grant funded project on combining qualitative sociological analyses and natural language processing to characterise radicalisation in social media data.  Yann is developing improved easy-to-use tooling to automate data scraping, perform network analyses, and further dissemination/knowledge translation of datasets via a custom database.
+  info: Volunteer Research Assistant, started March 2023
   number_educ: 0
 
 - name: Sneha Murthy co-supervised
   photo: murthys.jpg
-  project: Improving metagenome-assembled genome approaches for microbial eukaryotes and mobile AMR/VF genes.
+  email: sn559585@dal.ca
+  project: CFIA/CS/NSERC-funded project developing improved approaches for the analysis of mobile AMR/VF genes and microbial eukaryotes from metagenomic data. Specifically, this largely focuses on metagenome-assembled genome binning methods and signals.
   info: Co-Supervised Beiko Lab Interdisciplinary PhD student, started September 2022
+  twitter: https://twitter.com/MurthySneha
+  github: https://github.com/snehamurthy21
   number_educ: 2
-  education1: MSc (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
-  education2: BSc (Biotechnology), People's Education Society University
-
-- name: Devarshi Shah
-  photo: unfilled.jpg
-  project: Evaluating signatures of selection for animal adaptation in SARS-CoV-2 spillover
-  info: Honours student, starting September 2023
-  number_educ: 1
-  education1: BSc (Microbiology), Dalhousie University (in-progress)
-
+  education1: MSt (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
+  education2: BEng (Biotechnology), People's Education Society University
