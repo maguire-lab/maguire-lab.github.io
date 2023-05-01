@@ -9,9 +9,9 @@ permalink: /
 We are a research group jointly based in [Dalhousie's](https://dal.ca) [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) and the [Faculty of Medicine's](https://medicine.dal.ca) [Department of Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html).
 
 Our aim is to develop and collaboratively apply data-driven methods to try and mitigate health and social crises.
-This is focused on two main areas: genomic epidemiolgy of infectious diseases and inter-disciplinary collaborations with domain experts 
+This is focused on two main areas: genomic epidemiology of infectious diseases and inter-disciplinary collaborations with domain experts 
 
-Specifically, this former work involves developing and applying novel microbial bioinformatics and machine learning approaches to better understand the diagonsis, evolution, and dynamics of infectious diseases.
+Specifically, this former work involves developing and applying novel microbial bioinformatics and machine learning approaches to better understand the diagnosis, evolution, and dynamics of infectious diseases.
 We largely work on problems related to antimicrobial resistance (AMR) and, in the last couple of years, the COVID-19 pandemic with national and international consortia of clinicians and public health experts.
 Whereas, our broader collaborative data science works includes work exploring online radicalisation with sociologists, patient preference at refugee clinics, and autism-related language-use.
 
