@@ -14,7 +14,9 @@ Health data science is a rapidly growing research field across academia, governm
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
 
-The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/health_data_science_research/) including the [previous syllabus](https://maguire-lab.github.io/assets/courses/20220319_syallabus_research_in_health_data_science.pdf).
+- [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
+
+- [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
 
 ## Bioinformatics Algorithms (CSCI6802/CSCI4181)
 
@@ -25,7 +27,7 @@ Students get hands-on experience via 4 practical assignments and given experienc
 This course was originally created by [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
 It is a graduate course for CS or life sciences (or similar) students that is open to advanced undergraduates as a final year elective.
 
-The course website including syllabus and materials can be found [here](https://maguire-lab.github.io/bioinformatics_algorithms/).
+- [Winter 2023 syllabus/materials](https://maguire-lab.github.io/bioinformatics_algorithms/) 
 
 
 ## Professional Competencies 1 (MED1)
