@@ -84,7 +84,11 @@ Participants gain practical experience and skills to be able to:
 
 - Use different visualization tools for genomic epidemiology analysis
 
-Course materials and recordings from the 2021-OCT-4 offering is freely available [here](https://bioinformaticsdotca.github.io/IDE_2021)
+Course materials and recordings are freely available: 
+
+- [2021-OCT-4 offering](https://bioinformaticsdotca.github.io/IDE_2021)
+
+- [2023-APR-18 offering](https://bioinformaticsdotca.github.io/IDE_2023)
 
 ## Genomics for Antimicrobial Resistance Workshop
 
