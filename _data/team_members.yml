@@ -67,3 +67,14 @@
   number_educ: 2
   education1: MSt (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
   education2: BEng (Biotechnology), People's Education Society University
+
+- name: Nathan Smith
+  photo: smithn.jpg
+  email: smith@dal.ca
+  github: https://github.com/smithnk
+  project: Working on a co-supervised externship at PHAC with genomic epidemiology modellers [Dr. Carmen lia Murall](http://www.goc411.ca/en/413614/Carmen-lia-Murall) and [Dr. Michael Li](https://wzmli.github.io/) focused on COVID-19 wave dynamics. Collaborator on health inequity simulation project led and completing a PhD on frailty epidemiology modelling with NIH's [Dr. Yukiko Asada](https://www.bioethics.nih.gov/people/asada-bio.shtml).
+  info: Externship supervision for Yukiko Lab Community Health & Epidemiology PhD student, started April 2023
+  number_educ: 3
+  education1: PhD (Community Health & Epidemiology), Dalhousie University (in-progress) 
+  education2: MSc (Community Health & Epidemiology), Dalhouse University
+  education3: BSc (Neuroscience), Acadia University
