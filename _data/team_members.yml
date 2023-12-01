@@ -28,6 +28,18 @@
     #  number_educ: 1
     #  education1: BCS (Computer Science), Dalhousie University (in-progress)
 
+- name: Precious Adebola
+  photo: adebolap.jpg
+  project: NSERC Discovery Grant-funded project developing automated clinical and public health triage tools for predicted antimicrobial resistance genes in genomic datasets.
+  info: CS PhD Student, starting January 2024
+  number_educ: 3
+  email: preciousadebola@gmail.com
+  twitter: 0
+  github: 0
+  education1: MSc (Bioinformatics), Covenant University, Nigeria
+  education2: MPH (Health Promotion & Education), University of Ibadan, Nigeria
+  education3: BSc (Biology), University of Benin, Nigeria
+
 - name: Devarshi Shah
   photo: shahd.jpg
   project: Computational project as part of the WILD-EPI consortium with governmental, clinical, and academic researchers investigating viral spillovers between human and wildlife populations in Canada. This project is focused on identifying and characterising mutational and evolutionary signatures of animal adaptation associated with SARS-CoV-2 spillover and spillback.

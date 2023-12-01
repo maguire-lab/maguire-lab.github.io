@@ -16,3 +16,14 @@
   info: Undergraduate Student Research Associate 2022-05 to 2023-05
   number_educ: 1
   education1: BCS (Computer Science), Dalhousie/Peking University (in-progress)
+
+- name: Zahraa Zeinou
+  photo: zeinouz.jpg
+  project: Short-term project developing data analysis and plotting skills to explore genomic metadata in large sequencing databases. This is being used with global burden of disease data to measure the mismatch between AMR health burden and the availability of microbial sequencing.
+  email: zz.gdy.2018@gmail.com
+  github: https://github.com/zzeinou
+  twitter: 0
+  info: Research Intern, started April 2023
+  number_educ: 1
+  education1: CEGEP (Health Sciences), Collégial international Sainte-Anne (in-progress)
+
