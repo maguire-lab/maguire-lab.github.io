@@ -30,7 +30,7 @@
 
 - name: Precious Adebola
   photo: adebolap.jpg
-  project: NSERC Discovery Grant-funded project developing automated clinical and public health triage tools for predicted antimicrobial resistance genes in genomic datasets.
+  project: NSERC Discovery Grant-funded project developing automated clinical and public health tools for detection of evolving antimicrobial resistance threats. These tools will be used to triage predicted AMR genes in genomic data by incoporating multi-modal data (genomic, phylogenetic, and contextual metadata). This is being developed using data from the Shared Hospital Lab's antimicrobial resistance organism outbreak and surveillance genomics.
   info: CS PhD Student, starting January 2024
   number_educ: 3
   email: preciousadebola@gmail.com
@@ -49,16 +49,6 @@
   info: Honours student, starting September 2023
   number_educ: 1
   education1: BSc (Microbiology), Dalhousie University (in-progress)
-
-- name: Zahraa Zeinou
-  photo: zeinouz.jpg
-  project: Short-term project developing data analysis and plotting skills to explore genomic metadata in large sequencing databases. This is being used with global burden of disease data to measure the mismatch between AMR health burden and the availability of microbial sequencing.
-  email: zz.gdy.2018@gmail.com
-  github: https://github.com/zzeinou
-  twitter: 0
-  info: Research Intern, started April 2023
-  number_educ: 1
-  education1: CEGEP (Health Sciences), Collégial international Sainte-Anne (in-progress)
 
 - name: Yann Guerin
   photo: gueriny.jpg
