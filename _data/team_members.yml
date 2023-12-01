@@ -10,24 +10,6 @@
   education2: PhD (Bioinformatics) UCL & NHM with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
   education3: MA (Life Sciences) Oxford 
 
-- name: David Mahoney
-  photo: mahoneyd.jpg
-  project: NSERC Discovery Grant-funded project based on the development and application of tools to detect lateral gene transfer (LGT) of genes with important microbial functions (such as antimicrobial resistance) from metagenomic assembly graphs. This involves a One Health focus with a priority on identifying intersectoral LGT events (i.e., those between clinical, environmental, agricultural environments). 
-  info: Interdisciplinary PhD Student, starting June 2023
-  email: david.Mahoney@dal.ca
-  twitter: 0
-  github: 0
-  number_educ: 2
-  education1: MSc (Food Science), University of British Columbia
-  education2: BSc (Microbiology), Dalhousie University
-
-    #- name: Muhammad Saim Iqbal
-    #  photo:
-    #  project:
-    #  info: Undergraduate Student Research Associate, started May 2023
-    #  number_educ: 1
-    #  education1: BCS (Computer Science), Dalhousie University (in-progress)
-
 - name: Precious Adebola
   photo: adebolap.jpg
   project: NSERC Discovery Grant-funded project developing automated clinical and public health tools for detection of evolving antimicrobial resistance threats. These tools will be used to triage predicted AMR genes in genomic data by incoporating multi-modal data (genomic, phylogenetic, and contextual metadata). This is being developed using data from the Shared Hospital Lab's antimicrobial resistance organism outbreak and surveillance genomics.
@@ -39,6 +21,18 @@
   education1: MSc (Bioinformatics), Covenant University, Nigeria
   education2: MPH (Health Promotion & Education), University of Ibadan, Nigeria
   education3: BSc (Biology), University of Benin, Nigeria
+
+- name: David Mahoney
+  photo: mahoneyd.jpg
+  project: NSERC Discovery Grant-funded project based on the development and application of tools to detect lateral gene transfer (LGT) of genes with important microbial functions (such as antimicrobial resistance) from metagenomic assembly graphs. This involves a One Health focus with a priority on identifying intersectoral LGT events (i.e., those between clinical, environmental, agricultural environments). 
+  info: Interdisciplinary PhD Student, starting June 2023
+  email: david.Mahoney@dal.ca
+  twitter: 0
+  github: 0
+  number_educ: 2
+  education1: MSc (Food Science), University of British Columbia
+  education2: BSc (Microbiology), Dalhousie University
+
 
 - name: Devarshi Shah
   photo: shahd.jpg
