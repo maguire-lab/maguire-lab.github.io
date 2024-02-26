@@ -33,7 +33,6 @@
   education1: MSc (Food Science), University of British Columbia
   education2: BSc (Microbiology), Dalhousie University
 
-
 - name: Devarshi Shah
   photo: shahd.jpg
   project: Computational project as part of the WILD-EPI consortium with governmental, clinical, and academic researchers investigating viral spillovers between human and wildlife populations in Canada. This project is focused on identifying and characterising mutational and evolutionary signatures of animal adaptation associated with SARS-CoV-2 spillover and spillback.
@@ -74,3 +73,11 @@
   education1: PhD (Community Health & Epidemiology), Dalhousie University (in-progress) 
   education2: MSc (Community Health & Epidemiology), Dalhouse University
   education3: BSc (Neuroscience), Acadia University
+
+- name: Freyja
+  photo: 
+  email: 
+  github:
+  project: "Snacks and worklife balance"
+  info: Started May 2020
+  number_educ: 0
