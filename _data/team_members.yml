@@ -52,17 +52,6 @@
   info: Research Assistant, started March 2023
   number_educ: 0
 
-- name: Sneha Murthy
-  photo: murthys.jpg
-  email: sn559585@dal.ca
-  project: CFIA/CS/NSERC-funded project developing improved approaches for the analysis of mobile AMR/VF genes and microbial eukaryotes from metagenomic data. Specifically, this largely focuses on metagenome-assembled genome binning methods and signals.
-  info: Co-Supervised Beiko Lab Interdisciplinary PhD student, started September 2022
-  twitter: https://twitter.com/MurthySneha
-  github: https://github.com/snehamurthy21
-  number_educ: 2
-  education1: MSt (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
-  education2: BEng (Biotechnology), People's Education Society University
-
 - name: Nathan Smith
   photo: smithn.jpg
   email: smith@dal.ca
