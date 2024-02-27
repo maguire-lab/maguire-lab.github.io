@@ -1,0 +1,20 @@
+- name: Sneha Murthy
+  photo: murthys.jpg
+  email: sn559585@dal.ca
+  project: CFIA/CS/NSERC-funded project developing improved approaches for the analysis of mobile AMR/VF genes and microbial eukaryotes from metagenomic data. Specifically, this largely focuses on metagenome-assembled genome binning methods and signals.
+  info: Co-Supervised Beiko Lab Interdisciplinary PhD student, started September 2022
+  twitter: https://twitter.com/MurthySneha
+  github: https://github.com/snehamurthy21
+  number_educ: 2
+  education1: MSt (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
+  education2: BEng (Biotechnology), People's Education Society University
+
+- name: Naeem Shirmohammady
+  photo: nshirmohammady.jpg
+  email: Naeem.Shirmohammady@smu.ca
+  project: Working on a NS Graduate Scholarship funded project to develop network-based approaches for predicting drug-drug interactions.
+  info: St Mary's University MSc in Applied Science in Somayeh Kafaie's group, started September 2023
+  number_educ: 2
+  education1: MSc (Computer Science), University of Tabriz
+  education2: BSc (Software Engineering)
+
