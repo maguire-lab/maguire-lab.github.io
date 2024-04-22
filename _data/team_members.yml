@@ -33,16 +33,6 @@
   education1: MSc (Food Science), University of British Columbia
   education2: BSc (Microbiology), Dalhousie University
 
-- name: Devarshi Shah
-  photo: shahd.jpg
-  project: Computational project as part of the WILD-EPI consortium with governmental, clinical, and academic researchers investigating viral spillovers between human and wildlife populations in Canada. This project is focused on identifying and characterising mutational and evolutionary signatures of animal adaptation associated with SARS-CoV-2 spillover and spillback.
-  email: D.Shah@dal.ca
-  twitter: 0
-  github: 0
-  info: Honours student, starting September 2023
-  number_educ: 1
-  education1: BSc (Microbiology), Dalhousie University (in-progress)
-
 - name: Yann Guerin
   photo: gueriny.jpg
   email: yannguerin3013@gmail.com
@@ -51,18 +41,6 @@
   project: SSHRC Insight Development Grant funded project on combining qualitative sociological analyses and natural language processing to characterise radicalisation in social media data.  Yann is developing improved easy-to-use tooling to automate data scraping, perform network analyses, and further dissemination/knowledge translation of datasets via a custom database.
   info: Research Assistant, started March 2023
   number_educ: 0
-
-- name: Nathan Smith
-  photo: smithn.jpg
-  email: smith@dal.ca
-  github: https://github.com/smithnk
-  project: Working on a co-supervised externship at PHAC with genomic epidemiology modellers [Dr. Carmen lia Murall](http://www.goc411.ca/en/413614/Carmen-lia-Murall) and [Dr. Michael Li](https://wzmli.github.io/) focused on COVID-19 wave dynamics. Collaborator on health inequity simulation project led and completing a PhD on frailty epidemiology modelling with NIH's [Dr. Yukiko Asada](https://www.bioethics.nih.gov/people/asada-bio.shtml).
-  info: Externship supervision for Yukiko Lab Community Health & Epidemiology PhD student, started April 2023
-  number_educ: 3
-  education1: PhD (Community Health & Epidemiology), Dalhousie University (in-progress) 
-  education2: MSc (Community Health & Epidemiology), Dalhouse University
-  education3: BSc (Neuroscience), Acadia University
-
 - name: Freyja
   photo: freyja.jpg
   email: 

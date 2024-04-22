@@ -1,8 +1,7 @@
 - name: Peter Jentsch
   photo: jentschp.jpg
-  duration: Postdoctoral Fellow 2021-11 to 2022-11
   project: Worked on improving use of genomic data in epidemiological modelling of SARS-CoV-2 (jointly supervised with [Dr. Samira Mubareka](https://sunnybrook.ca/research/team/member.asp?t=12&m=417&page=529) at Sunnybrook). 
-  info: Now working as a scientific software developer.
+  info: Postdoctoral Fellow 2021-11 to 2022-11. Now working as a scientific software developer.
   email: pjentsch@uwaterloo.ca
   github: https://github.com/pcjentsch
   twitter: https://twitter.com/pcjentsch
@@ -26,4 +25,26 @@
   info: Research Intern 2023-04 to 2023-06 
   number_educ: 1
   education1: CEGEP (Health Sciences), Collégial international Sainte-Anne (in-progress)
+
+- name: Nathan Smith
+  photo: smithn.jpg
+  email: smith@dal.ca
+  github: https://github.com/smithnk
+  project: Working on a co-supervised externship at PHAC with genomic epidemiology modellers [Dr. Carmen lia Murall](http://www.goc411.ca/en/413614/Carmen-lia-Murall) and [Dr. Michael Li](https://wzmli.github.io/) focused on COVID-19 wave dynamics. Collaborator on health inequity simulation project led and completing a PhD on frailty epidemiology modelling with NIH's [Dr. Yukiko Asada](https://www.bioethics.nih.gov/people/asada-bio.shtml).
+  info: Externship supervision for Yukiko Lab Community Health & Epidemiology PhD student 2023-04 to 2023-08. Postdoctoral fellow at NIH.
+  number_educ: 3
+  education1: PhD (Community Health & Epidemiology), Dalhousie University 
+  education2: MSc (Community Health & Epidemiology), Dalhouse University
+  education3: BSc (Neuroscience), Acadia University
+
+- name: Devarshi Shah
+  photo: shahd.jpg
+  project: Computational project as part of the WILD-EPI consortium with governmental, clinical, and academic researchers investigating viral spillovers between human and wildlife populations in Canada. This project is focused on identifying and characterising mutational and evolutionary signatures of animal adaptation associated with SARS-CoV-2 spillover and spillback.
+  email: D.Shah@dal.ca
+  twitter: 0
+  github: 0
+  info: Microbiology & Immunology Honours student 2023-07 to 2024-04
+  number_educ: 1
+  education1: BSc (Microbiology), Dalhousie University (in-progress)
+
 
