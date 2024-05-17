@@ -18,6 +18,8 @@ It is also open to advanced undergraduates with prior experience with statistics
 
 - [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
 
+- [Summer 2024 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2024/)
+
 ## Bioinformatics Algorithms (CSCI6802/CSCI4181)
 
 This course focuses on teaching the underlying algorithms behind commonly used computational and statistical approaches for analysing biological data.
@@ -40,24 +42,11 @@ Content includes public health and infectious disease management in the communit
 
 Key concepts come from population health, epidemiology, ethics, law, informatics, health policy and the humanities. The unit is highly applied and case-based, and closely integrated with the other Med 1 units through shared cases and topics.
 
-## Probability and Statistics for CS (CSCI2360)
-Originally developed by [Thomas Trappenberg](https://www.dal.ca/faculty/computerscience/faculty-staff/thomas-trappenberg.html) and is an undergraduate course offered within the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/undergraduate-programs.html).
+## Computer Modelling for Scientists (CSCI2202)
 
-This course is an introduction to probability theory and statistics with applications to computer
-science, in particular to data science and experimental CS. Students will be introduced to the idea of
-random numbers and the formal language of reasoning with uncertainty as well as with the basic
-tools and an outlook of advanced tool for experimental investigations in computer science such as
-HCI. What is a random number, probability mass and density functions, data analytics, probabilistic
-reasoning, basic hypothesis testing, sample size estimation, and inter-rater reliability. Applications
-and relevance of these concepts in computer science will be emphasized.
+CSCI 2202 is an introductory, project based, programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming and then goes on to guide students through using system simulations, modelling and data-driven analysis of models. 
 
-
-## Genomic Medicine (6XXX/4XXX)
-This course is still under developement but will be a broad introduction to the ways in which genomic data is used in medicine. This encompasses infectious disease genomic epidemiology and topics in human genomics (such as genome-wide assocation studies).
-
-This course is offered jointly to the graduate students across the Faculty of Medicine (and listed within [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html)) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
-
-It will also be open to advanced undergraduates as a final year elective.
+- Winter 2024/2025 will be the first offering of this course by Dr. Maguire
 
 # Other Courses
 
@@ -91,6 +80,8 @@ Course materials and recordings are freely available:
 - [2021-OCT-4 offering](https://bioinformaticsdotca.github.io/IDE_2021)
 
 - [2023-APR-18 offering](https://bioinformaticsdotca.github.io/IDE_2023)
+
+- [2024-MAY-17 offering](https://bioinformaticsdotca.github.io/IDE_2024)
 
 ## Genomics for Antimicrobial Resistance Workshop
 
