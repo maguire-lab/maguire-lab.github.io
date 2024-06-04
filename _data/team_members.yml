@@ -33,6 +33,27 @@
   education1: MSc (Food Science), University of British Columbia
   education2: BSc (Microbiology), Dalhousie University
 
+- name: Bonface Onyango,
+  photo:
+  project: NSERC Discovery Grant funded project (co-supervised with Rob Beiko) developing genomic neighbourhood embedding based predictive models for phenotypic prediction.
+  info: Interdisciplinary PhD student, starting Fall 2024
+  email: 
+  twitter: 0
+  github: 0
+  number_educ: 2
+  education1: MSc (Bioinformatics), Pwani University, Kenya
+  education2: BSc (Biochemistry), Egerton University, Kenya
+
+
+- name: Malcom Tait
+  photo:
+  project: CIHR Team Grant funded project on factors influencing zoonotic transmissions of mpox
+  info: Community Helath & Epidemiology MSc Student, Starting Fall 2024
+  twitter: 0
+  github: 0
+  number_educ: 1
+  education1: BHSc Honours (Health Sciences), Queen's University
+
 - name: Yann Guerin
   photo: gueriny.jpg
   email: yannguerin3013@gmail.com
