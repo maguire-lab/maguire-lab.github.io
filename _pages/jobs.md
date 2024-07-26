@@ -18,11 +18,7 @@ permalink: /jobs
 
 ## Masters Studentships
 
-### Ecological Epidemiology of Zoonotic Poxviruses 
-
-We are currently hiring an [MSc in Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/admissions/admission-requirements.html) student to work on a project within a virology, veterinary medicine, and wildlife ecology collaboration between Canada, Ghana, and Nigeria.
-The goal of this project is to summarise and experimentally evaluate the relative zoonotic transmission potential of different pathways (e.g., fomites, direct contact, water contamination, butchery). 
-Specifically, this project will involve conducting a literature review of zoonotic pathways, supporting the development of animal and cell culture CL3 challenge experiments, and phylogenomic analysis of sequenced mpox and varicella viruses from these experiments.
+**Note: We currently don't have open positions for Masters students without their own funding**
 
 ## Research in Medicine or Residency Research Projects
 
@@ -36,9 +32,9 @@ Current projects that would be a good fit (although if you have your own idea pl
 
 - Infectious Disease Bioinformatics/Genomic Epidemiology: Working with clinicians, public health experts to continue development of the [Evolving Threat Detector](https://github.com/fmaguire/evoling_threat_detector). This is a tool that is designed to identify and report new evolving resistance to antibiotics. Great fit for any student interested in front-end development, microbial bioinformatics, machine learning, and/or working as part of an international consortia.
 
-- Computational Social Science/Health Data Science: Working with social scientists to develop a database and front-end to support qualitative and natural language processing analyses of text data scraped from social media websites. The goal of this broader project is to characterise radicalisation in online spaces.
+- Computational Social Science/Health Data Science: Working with sociologists to perform NLP and network-based analyses of radicalisation using a large custom corpus scraped from social media websites. 
 
-- Genomic epidemiology of zoonotic viruses
+- Highly Pathogenic Avian Influenza: largescale evolutionary analyses
 
 
 <figure>
