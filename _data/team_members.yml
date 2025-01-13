@@ -4,11 +4,23 @@
   project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at the [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Faculty in the [Institute for Comparative Genomics](https://icgenomics.ca/), and with an adjunct appointment at [Sunnybrook Research Institute](https://sunnybrook.ca/research/).
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
-  twitter: https://twitter.com/finlaym
+  twitter: 0
   number_educ: 3
   education1: Donald Hill Fellow (Computer Science) Dalhousie with [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
   education2: PhD (Bioinformatics) UCL & NHM with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
   education3: MA (Life Sciences) Oxford 
+
+- name: Angela McLaughlin
+  photo: 0
+  info: Postdoctoral Fellow, started Jan 2025
+  project: CIHR Catalyst Grant-funded project Developing genomic and phylogenetic predictive models for highly pathogen avian influenza host range and transmission. Jointly supervised project with [Zvonimir Poljak at Ontario Veterinary College](https://ovc.uoguelph.ca/population-medicine/faculty/zvonimir-poljak/).
+  email: 
+  github: https://github.com/AngMcL
+  twitter: 0
+  number_educ: 3
+  education1: PhD (Bioinformatics) University of British Columbia with [Jeff Joy](https://bccfe.ca/about/dr-jeff-joy/).
+  education2: MSc (Population & Public Health) University of British Columbia with [Jeff Joy](https://bccfe.ca/about/dr-jeff-joy/).
+  education3: BSc (Microbiology & Immunology) University of British Columbia 
 
 - name: Precious Osadebamwen 
   photo: adebolap.jpg
@@ -53,6 +65,24 @@
   github: 0
   number_educ: 1
   education1: BHSc Honours (Health Sciences), Queen's University
+
+- name: Nathan Chao
+  photo: nchao.jpg
+  project: Identifying wildlife-associated coronaviruses in massive raw sequencing databases.
+  info: Experiential Learning Student, starting January 2025
+  twitter: 0
+  github: 0
+  number_educ: 1
+  education1: BsC (Medical science), Dalhousie university (in-progress).
+
+  #- name: Payton Boettcher
+  #  photo: boettcherp.jpg
+  #  project: Developing a pipeline to identify and characterize antimicrobial resistance genes in metagenomic data.
+  #  info: Experiential Learning Student, starting January 2025
+  #  twitter: 0
+  #  github: 0
+  #  number_educ: 1
+  #  education1: BsC (Microbiology), Dalhousie university (in-progress).
 
 - name: Yann Guerin
   photo: gueriny.jpg
