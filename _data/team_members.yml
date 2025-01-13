@@ -11,7 +11,7 @@
   education3: MA (Life Sciences) Oxford 
 
 - name: Angela McLaughlin
-  photo: 0
+  photo: unknown.jpg
   info: Postdoctoral Fellow, started Jan 2025
   project: CIHR Catalyst Grant-funded project Developing genomic and phylogenetic predictive models for highly pathogen avian influenza host range and transmission. Jointly supervised project with [Zvonimir Poljak at Ontario Veterinary College](https://ovc.uoguelph.ca/population-medicine/faculty/zvonimir-poljak/).
   email: 
@@ -70,19 +70,15 @@
   photo: nchao.jpg
   project: Identifying wildlife-associated coronaviruses in massive raw sequencing databases.
   info: Experiential Learning Student, starting January 2025
-  twitter: 0
-  github: 0
   number_educ: 1
   education1: BsC (Medical science), Dalhousie university (in-progress).
 
-  #- name: Payton Boettcher
-  #  photo: boettcherp.jpg
-  #  project: Developing a pipeline to identify and characterize antimicrobial resistance genes in metagenomic data.
-  #  info: Experiential Learning Student, starting January 2025
-  #  twitter: 0
-  #  github: 0
-  #  number_educ: 1
-  #  education1: BsC (Microbiology), Dalhousie university (in-progress).
+- name: Payton Boettcher
+  photo: unknown.jpg
+  project: Working with David Mahoney to curate and analyse a dataset of nested Lateral Gene Transfer events in Bacteria.
+  info: Experiential Learning Student, starting January 2025
+  number_educ: 1
+  education1: BsC (Microbiology), Dalhousie university (in-progress).
 
 - name: Yann Guerin
   photo: gueriny.jpg
