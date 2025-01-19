@@ -4,7 +4,6 @@
   project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at the [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Faculty in the [Institute for Comparative Genomics](https://icgenomics.ca/), and with an adjunct appointment at [Sunnybrook Research Institute](https://sunnybrook.ca/research/).
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
-  twitter: 0
   number_educ: 3
   education1: Donald Hill Fellow (Computer Science) Dalhousie with [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
   education2: PhD (Bioinformatics) UCL & NHM with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
@@ -13,10 +12,9 @@
 - name: Angela McLaughlin
   photo: unfilled.jpg
   info: Postdoctoral Fellow, started Jan 2025
-  project: CIHR Catalyst Grant-funded project Developing genomic and phylogenetic predictive models for highly pathogen avian influenza host range and transmission. Jointly supervised project with [Zvonimir Poljak at Ontario Veterinary College](https://ovc.uoguelph.ca/population-medicine/faculty/zvonimir-poljak/).
-  email: 
+  project: CIHR Catalyst Grant-funded project on developing genomic and phylogenetic predictive models for highly pathogenic influenza A virus H5Nx host range and interspecies transmission. Jointly supervised with [Zvonimir Poljak](https://ovc.uoguelph.ca/population-medicine/faculty/zvonimir-poljak) at the University of Guelph Ontario Veterinary College
+  email: angela.mclaugh@gmail.com
   github: https://github.com/AngMcL
-  twitter: 0
   number_educ: 3
   education1: PhD (Bioinformatics) University of British Columbia with [Jeff Joy](https://bccfe.ca/about/dr-jeff-joy/).
   education2: MSc (Population & Public Health) University of British Columbia with [Jeff Joy](https://bccfe.ca/about/dr-jeff-joy/).
@@ -28,7 +26,6 @@
   info: CS PhD Student, starting January 2024
   number_educ: 3
   email: preciousadebola@gmail.com
-  twitter: 0
   github: 0
   education1: MSc (Bioinformatics), Covenant University, Nigeria
   education2: MPH (Health Promotion & Education), University of Ibadan, Nigeria
@@ -39,8 +36,7 @@
   project: NSERC Discovery Grant-funded project based on the development and application of tools to detect lateral gene transfer (LGT) of genes with important microbial functions (such as antimicrobial resistance) from metagenomic assembly graphs. This involves a One Health focus with a priority on identifying intersectoral LGT events (i.e., those between clinical, environmental, agricultural environments). 
   info: Interdisciplinary PhD Student, starting June 2023
   email: david.Mahoney@dal.ca
-  twitter: 0
-  github: 0
+  github: https://github.com/David-Mahoney
   number_educ: 2
   education1: MSc (Food Science), University of British Columbia
   education2: BSc (Microbiology), Dalhousie University
@@ -50,7 +46,6 @@
   project: NSERC Discovery Grant funded project (co-supervised with Rob Beiko) developing genomic neighbourhood embedding based predictive models for phenotypic prediction.
   info: Interdisciplinary PhD student, starting Fall 2024
   email: bonfaceb21@gmail.com
-  twitter: 0
   github: 0
   number_educ: 2
   education1: MSc (Bioinformatics), Pwani University, Kenya
@@ -61,7 +56,6 @@
   photo: taitm.jpg
   project: CIHR Team Grant funded project on factors influencing zoonotic transmissions of mpox
   info: Community Health & Epidemiology MSc Student, Starting Fall 2024
-  twitter: 0
   github: 0
   number_educ: 1
   education1: BHSc Honours (Health Sciences), Queen's University
@@ -83,11 +77,11 @@
 - name: Yann Guerin
   photo: gueriny.jpg
   email: yannguerin3013@gmail.com
-  twitter: 0
   github: https://github.com/yannguerin
   project: SSHRC Insight Development Grant funded project on combining qualitative sociological analyses and natural language processing to characterise radicalisation in social media data.  Yann is developing improved easy-to-use tooling to automate data scraping, perform network analyses, and further dissemination/knowledge translation of datasets via a custom database.
   info: Research Assistant, started March 2023
   number_educ: 0
+
 - name: Freyja
   photo: freyja.jpg
   email: 
