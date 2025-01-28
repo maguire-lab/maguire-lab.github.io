@@ -46,7 +46,7 @@ Key concepts come from population health, epidemiology, ethics, law, informatics
 
 CSCI 2202 is an introductory, project based, programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming and then goes on to guide students through using system simulations, modelling and data-driven analysis of models. 
 
-- Winter 2024/2025 will be the first offering of this course by Dr. Maguire
+- [Winter 2024/2025 syllabus/materials](https://maguire-lab.github.io/scientific_computing/)
 
 # Other Courses
 
