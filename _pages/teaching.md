@@ -8,17 +8,6 @@ permalink: /teaching/
 
 # Dalhousie Courses
 
-## Applied Research in Health Data Science (CSCI6410/CSCI4148/EPAH6410)
-Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
-
-This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
-It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
-
-- [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
-
-- [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
-
-- [Summer 2024 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2024/)
 
 ## Bioinformatics Algorithms (CSCI6802/CSCI4181)
 
@@ -32,6 +21,26 @@ It is a graduate course for CS or life sciences (or similar) students that is op
 - [Winter 2023 syllabus/materials](https://maguire-lab.github.io/bioinformatics_algorithms/) 
 
 
+## Computer Modelling for Scientists (CSCI2202)
+
+CSCI 2202 is an introductory python programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming and then goes on to guide students through using system simulations, modelling and data-driven analysis of models. 
+
+- [Winter 2024/2025 syllabus/materials](https://maguire-lab.github.io/scientific_computing/)
+
+
+## Applied Research in Health Data Science (CSCI6410/CSCI4148/EPAH6410)
+Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
+
+This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
+It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
+
+- [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
+
+- [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
+
+- [Summer 2024 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2024/)
+
+
 ## Professional Competencies 1 (MED1)
 
 This is a core course offered throughout the 1st year of medical school at Dalhousie.
@@ -41,12 +50,6 @@ This unit provides medical students with the opportunity to integrate their biom
 Content includes public health and infectious disease management in the community, end-of-life decision-making and other ethical challenges, patient safety and other system and quality improvement approaches, social accountability and global health, physician wellness and career paths, and the Health Mentors Program.
 
 Key concepts come from population health, epidemiology, ethics, law, informatics, health policy and the humanities. The unit is highly applied and case-based, and closely integrated with the other Med 1 units through shared cases and topics.
-
-## Computer Modelling for Scientists (CSCI2202)
-
-CSCI 2202 is an introductory, project based, programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming and then goes on to guide students through using system simulations, modelling and data-driven analysis of models. 
-
-- [Winter 2024/2025 syllabus/materials](https://maguire-lab.github.io/scientific_computing/)
 
 # Other Courses
 
