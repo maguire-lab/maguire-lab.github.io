@@ -9,7 +9,7 @@ permalink: /teaching/
 # Dalhousie Courses
 
 
-## Bioinformatics Algorithms (CSCI6802/CSCI4181)
+### Bioinformatics Algorithms (CSCI6802/CSCI4181)
 
 This course focuses on teaching the underlying algorithms behind commonly used computational and statistical approaches for analysing biological data.
 The majority of material focuses on biological sequence data and includes modules on homology (comparing sequences), assembly (recovering genomes from sequencing data), phylogenetics (inferring evolutionary relationships), and machine learning (applying ML to biological data). 
@@ -21,14 +21,14 @@ It is a graduate course for CS or life sciences (or similar) students that is op
 - [Winter 2023 syllabus/materials](https://maguire-lab.github.io/bioinformatics_algorithms/) 
 
 
-## Computer Modelling for Scientists (CSCI2202)
+### Computer Modelling for Scientists (CSCI2202)
 
 CSCI 2202 is an introductory python programming course for science majors. The course focuses on programming techniques useful for students in their scientific pursuits. The course introduces basic programming and then goes on to guide students through using system simulations, modelling and data-driven analysis of models. 
 
 - [Winter 2024/2025 syllabus/materials](https://maguire-lab.github.io/scientific_computing/)
 
 
-## Applied Research in Health Data Science (CSCI6410/CSCI4148/EPAH6410)
+### Applied Research in Health Data Science (CSCI6410/CSCI4148/EPAH6410)
 Health data science is a rapidly growing research field across academia, government, and industry. It relates to the application of statistical and machine learning approaches to analyse large complex medical datasets including electronic medical records, radiological imaging, physiological sensor data, and longitudinal databases.  This course combines an overview of these key types of medical data, hands-on introduction to their principal analysis methods, and training in how to apply them in interdisciplinary research contexts. Using a combination of lectures, R-based exercises, student-driven tutorials, and collaborative development of a research proposal, students will gain the skills necessary to plan and conduct effective health data science research.  
 
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
@@ -43,7 +43,7 @@ It is also open to advanced undergraduates with prior experience with statistics
 
 - [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
 
-## Professional Competencies 1 (MED1)
+### Professional Competencies 1 (MED1)
 
 This is a core course offered throughout the 1st year of medical school at Dalhousie.
 Professional competencies includes a weekly two-hour tutorial followed by a one-hour large group session. 
@@ -53,16 +53,16 @@ Content includes public health and infectious disease management in the communit
 
 Key concepts come from population health, epidemiology, ethics, law, informatics, health policy and the humanities. The unit is highly applied and case-based, and closely integrated with the other Med 1 units through shared cases and topics.
 
-# Guest Lecturing
+## Guest Lectures
 
-## Infectious Disease Epidemiology (EPAH6052)
+### Infectious Disease Epidemiology (EPAH6052)
 A graduate course in Community Health & Epidemiology primarily taught by Dr. Manuel Mattheisen. I provide modules on:
 
 - [Antibiotics, Antimicrobial Resistance, and the Surveillance of AMR](https://maguire-lab.github.io/assets/talks/lectures/EPAH6052_AMR.pdf) 
 
 - [Genomic Epidemiology of Pathogens](https://maguire-lab.github.io/assets/talks/lectures/EPAH6052_GenEpi.pdf)
 
-## Physiology of the Prokaryoic Cell (MICI3119)
+### Physiology of the Prokaryoic Cell (MICI3119)
 An introductory course to the bacterial physiological processes required for interactions with other organisms and the environment primarily taught by Dr. Nikhil Thomas.  
 
 I provide guest lectures on the [clinical applications of bacterial genomics](https://maguire-lab.github.io/assets/talks/lectures/MICI3119_genomics.pdf)
