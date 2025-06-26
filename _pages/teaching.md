@@ -34,12 +34,14 @@ Health data science is a rapidly growing research field across academia, governm
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
 
-- [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
 
-- [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
+- [Summer 2025 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2025/)
 
 - [Summer 2024 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2024/)
 
+- [Summer 2023 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2023/) 
+
+- [Summer 2022 syllabus/materials](https://maguire-lab.github.io/health_data_science_research/)
 
 ## Professional Competencies 1 (MED1)
 
@@ -51,7 +53,21 @@ Content includes public health and infectious disease management in the communit
 
 Key concepts come from population health, epidemiology, ethics, law, informatics, health policy and the humanities. The unit is highly applied and case-based, and closely integrated with the other Med 1 units through shared cases and topics.
 
-# Other Courses
+# Guest Lecturing
+
+## Infectious Disease Epidemiology (EPAH6052)
+A graduate course in Community Health & Epidemiology primarily taught by Dr. Manuel Mattheisen. I provide modules on:
+
+- [Antibiotics, Antimicrobial Resistance, and the Surveillance of AMR](https://maguire-lab.github.io/assets/talks/lectures/EPAH6052_AMR.pdf) 
+
+- [Genomic Epidemiology of Pathogens](https://maguire-lab.github.io/assets/talks/lectures/EPAH6052_GenEpi.pdf)
+
+## Physiology of the Prokaryoic Cell (MICI3119)
+An introductory course to the bacterial physiological processes required for interactions with other organisms and the environment primarily taught by Dr. Nikhil Thomas.  
+
+I provide guest lectures on the [clinical applications of bacterial genomics](https://maguire-lab.github.io/assets/talks/lectures/MICI3119_genomics.pdf)
+
+# Workshops
 
 ## MicroResearch
 This is a workshop that provides multidisciplinary research training and hands-on mentorship for the development of pilot health research projects.
