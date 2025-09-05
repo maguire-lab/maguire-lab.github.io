@@ -1,13 +1,11 @@
-#- name: Ghislain d'Entremont
-#  photo: 
-#  email: 
-#  project: 
-#  info: Hayden Lab, Community Health & Epidemiology PhD student, starting Fall 2024
-#  twitter:
-#  github:
-#  number_educ: 2
-#  education1: MSc (Statistics), Dalhousie University
-#  education2: BSc (Statistics), Dalhousie University
+- name: Ghislain d'Entremont
+  photo: ghislain.jpg
+  email: ghislaindentremont@dal.ca
+  project: Project rigorously evaluating the utility and effectiveness of large language models for systematic literature reviews
+  info: Hayden Lab, Community Health & Epidemiology PhD student, started Fall 2024
+  number_educ: 2
+  education1: MSc (Statistics), Dalhousie University
+  education2: BSc (Statistics), Dalhousie University
 
 - name: Sneha Murthy
   photo: murthys.jpg
@@ -20,12 +18,12 @@
   education1: MSt (Bioinformatics), Rashtreeya Vidyalaya College of Engineering
   education2: BEng (Biotechnology), People's Education Society University
 
-  #- name: Naeem Shirmohammady
-  #  photo: nshirmohammady.jpg
-  #  email: Naeem.Shirmohammady@smu.ca
-  #  project: Working on a NS Graduate Scholarship funded project to develop network-based approaches for predicting drug-drug interactions.
-  #  info: St Mary's University MSc in Applied Science in Somayeh Kafaie's group, started September 2023
-  #  number_educ: 2
-  #  education1: MSc (Computer Science), University of Tabriz
-  #  education2: BSc (Software Engineering)
-  #
+ - name: Naeem Shirmohammady
+   photo: nshirmohammady.jpg
+   email: Naeem.Shirmohammady@smu.ca
+   project: Working on a NS Graduate Scholarship funded project to develop network-based approaches for predicting drug-drug interactions.
+   info: St Mary's University MSc in Applied Science in Somayeh Kafaie's group, started September 2023
+   number_educ: 2
+   education1: MSc (Computer Science), University of Tabriz
+   education2: BSc (Software Engineering)
+  
