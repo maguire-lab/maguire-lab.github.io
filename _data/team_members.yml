@@ -51,7 +51,6 @@
   education1: MSc (Bioinformatics), Pwani University, Kenya
   education2: BSc (Biochemistry), Egerton University, Kenya
 
-
 - name: Malcolm Tait
   photo: taitm.jpg
   project: CIHR Team Grant funded project on factors influencing zoonotic transmissions of mpox
@@ -63,16 +62,9 @@
 - name: Nathan Chao
   photo: nchao.jpg
   project: Comparing different tools to identify wildlife-associated coronaviruses within massive raw sequencing databases.
-  info: Experiential Learning Student, starting January 2025
+  info: Experiential Learning and Honours Student, starting January 2025
   number_educ: 1
   education1: BsC (Medical science), Dalhousie university (in-progress).
-
-- name: Payton Boettcher
-  photo: unfilled.jpg
-  project: Curate and analysing a dataset of nested Lateral Gene Transfer events in Bacteria with David Mahoney.
-  info: Experiential Learning Student, starting January 2025
-  number_educ: 1
-  education1: BsC (Microbiology), Dalhousie university (in-progress).
 
 - name: Yann Guerin
   photo: gueriny.jpg

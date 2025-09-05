@@ -1,3 +1,10 @@
+- name: Payton Boettcher
+  photo: unfilled.jpg
+  project: Curate and analysing a dataset of nested Lateral Gene Transfer events in Bacteria with David Mahoney.
+  info: Experiential Learning Student, starting January 2025
+  number_educ: 1
+  education1: BsC (Microbiology), Dalhousie university (in-progress).
+
 - name: Peter Jentsch
   photo: jentschp.jpg
   project: Worked on improving use of genomic data in epidemiological modelling of SARS-CoV-2 (jointly supervised with [Dr. Samira Mubareka](https://sunnybrook.ca/research/team/member.asp?t=12&m=417&page=529) at Sunnybrook). 
