@@ -52,6 +52,8 @@ For more details about specific projects, collaborators, and funding sources see
 We are located in Dalhousie University and have strong ties to the Shared Hospital Lab located at [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/), the [CARD](https://card.mcmaster.ca), the [Canadian Food Inspection Agency](https://inspection.canada.ca/eng/1297964599443/1297965645317), and the [Public Health Agency of Canada](https://www.canada.ca/en/public-health.html).
 This also includes national and international public health consortia such as [IRIDA](https://irida.ca/), [CanCOGeN](https://www.genomecanada.ca/en/cancogen), and [PHA4GE](https://pha4ge.org).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCG5wds5EmE?si=bmzcPs2wApK7Y6nr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Joining the Lab 
 
  **We are looking for new enthusiastic and creative PhD students to [join the team]({{ site.url }}{{ site.baseurl }}/jobs)!** 

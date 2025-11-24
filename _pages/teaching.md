@@ -19,7 +19,7 @@ This course was originally created by [Robert Beiko](https://www.dal.ca/faculty/
 It is a graduate course for CS or life sciences (or similar) students that is open to advanced undergraduates as a final year elective.
 
 - [Winter 2023 syllabus/materials](https://maguire-lab.github.io/bioinformatics_algorithms/) 
-
+- [Winter 2026 syllabus/materials](https://maguire-lab.github.io/bioinformatics_algorithms_2026/) 
 
 ### Computer Modelling for Scientists (CSCI2202)
 
@@ -76,9 +76,15 @@ The initiative then provides funding to enact small/pilot projects emerging from
 
 More details about MicroResearch can be found [here](http://www.microresearch.ca/)
 
+
+## CBW: Pathogen Genomic Epidemiology
+This is a workshop as part of the Canadian Bioinformatics Workshop series. It is a 3 day course that focuses on intermediate to advanced topics in pathogen genomic epidemiology (such as emerging pathogen detection, epidemiological data integration, typing and clustering, outbreak investigation, and phylodynamics).
+
+- [2025-JUNE-24 offering](https://bioinformaticsdotca.github.io/PGE_2025/)
+
 ## CBW: Infectious Disease Genomic Epidemiology
 This is a workshop as part of the Canadian Bioinformatics Workshop series 
-It is a 3-day course that provides an introduction to genomic epidemiology analysis and hands-on practical tutorials demonstrating the use selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.
+It is a 5-day course that provides an introduction to genomic epidemiology analysis and hands-on practical tutorials demonstrating the use selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.
 
 Participants gain practical experience and skills to be able to:
 
@@ -102,6 +108,7 @@ Course materials and recordings are freely available:
 
 - [2024-MAY-17 offering](https://bioinformaticsdotca.github.io/IDE_2024)
 
+
 ## Genomics for Antimicrobial Resistance Workshop
 
 This was a joint initiative between CLIMB-BIG-DATA, Public Health Alliance for Genomic Epidemiology (PHA4GE) and Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) workshop.
@@ -109,4 +116,3 @@ This workshop was developed to provide high-level training in the genomics metho
 It was designed to help build AMR-genomics capacity for academic, clinical, and public health groups.
 
 Course materials and recordings from the 2021-OCT-15 offering are available freely online [here](https://www.climb.ac.uk/amr-workshop/)
-
