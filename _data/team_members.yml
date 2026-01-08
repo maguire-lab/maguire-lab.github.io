@@ -1,12 +1,12 @@
 - name: Finlay Maguire
   photo: maguiref.png
-  info: [Principal Investigator](https://finlaymagui.re/assets/finlay_maguire_CV_1_page.pdf), started Jan 2022 
+  info: Principal Investigator, [started Jan 2022](https://finlaymagui.re/assets/finlay_maguire_CV_1_page.pdf)
   project: Jointly appointed Assistant Professor in [Community Health & Epidemiology](https://medicine.dal.ca/departments/department-sites/community-health.html) and [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University. Pathogenomics Bioinformatics Lead at Toronto's [Shared Hospital Laboratory](https://www.shn.ca/marking-a-milestone-shared-hospital-laboratory-conducts-one-millionth-covid-19-test/), Steering Committee/Workgroup Chair for [PHA4GE](https://pha4ge.org/).
   email: finlay.maguire@dal.ca
   github: https://github.com/fmaguire
   number_educ: 3
   education1: Donald Hill Fellow (Computer Science) Dalhousie with [Robert Beiko](https://www.dal.ca/faculty/computerscience/faculty-staff/robert-beiko.html)
-  education2: [PhD (Bioinformatics) UCL & NHM](http://finlaymagui.re/assets/finlay_maguire_final_PhD_2015_thesis.pdf) with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
+  education2: PhD [(Bioinformatics) UCL & NHM](http://finlaymagui.re/assets/finlay_maguire_final_PhD_2015_thesis.pdf) with [Thomas Richards](https://protists.co.uk/thomas_richards.html)
   education3: MA (Life Sciences) Oxford 
 
 - name: Angela McLaughlin
@@ -83,8 +83,6 @@
 
 - name: Freyja
   photo: freyja.jpg
-  email: 
-  github:
   project: "Snacks and worklife balance"
   info: Started May 2020
   number_educ: 0

@@ -102,9 +102,6 @@ permalink: /team/
   <h4>{{ member.name }}{% if member.github != 0 %}
 <a href="{{ member.github }}/"> <i class="fa fa-github" style="color:black; font-size:24px;"></i></a>
 {% endif %}
-{% if member.twitter != 0 %}
-<a href="{{ member.twitter }}/"> <i class="fa fa-twitter" style="color:#0084b4; font-size:24px;"></i></a>
-{% endif %}
 {% if member.email != 0 %}
 <a href="mailto:{{ member.email }}/"> <i class="fa fa-envelope" style="color:black; font-size:24px;"></i></a>
 {% endif %}
@@ -184,9 +181,6 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/alumni/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}{% if member.github != 0 %}
 <a href="{{ member.github }}/"> <i class="fa fa-github" style="color:black; font-size:24px;"></i></a>
-{% endif %}
-{% if member.twitter != 0 %}
-<a href="{{ member.twitter }}/"> <i class="fa fa-twitter" style="color:#0084b4; font-size:24px;"></i></a>
 {% endif %}
 </h4>
 
