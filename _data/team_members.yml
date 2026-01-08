@@ -64,7 +64,14 @@
   project: Comparing different tools to identify wildlife-associated coronaviruses within massive raw sequencing databases.
   info: Experiential Learning and Honours Student, starting January 2025
   number_educ: 1
-  education1: BsC (Medical science), Dalhousie university (in-progress).
+  education1: BSc (Medical science), Dalhousie university (in-progress).
+
+- name: Anya McPherson
+  photo: unfilled.jpg
+  project: Evaluating long-read metagenomics for AMR detection
+  info: Experiential Learning, starting January 2025
+  number_educ: 1
+  education1: BSc (Microbiology & Immunology/Psychology), Dalhousie university (in-progress).
 
 - name: Yann Guerin
   photo: gueriny.jpg
