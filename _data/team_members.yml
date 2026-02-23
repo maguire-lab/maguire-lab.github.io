@@ -25,7 +25,7 @@
   project: NSERC Discovery Grant-funded project developing automated clinical and public health tools for detection of evolving antimicrobial resistance threats. These tools will be used to triage predicted AMR genes in genomic data by incoporating multi-modal data (genomic, phylogenetic, and contextual metadata). This is being developed using data from the Shared Hospital Lab's antimicrobial resistance organism outbreak and surveillance genomics.
   info: CS PhD Student, starting January 2024
   number_educ: 3
-  email: preciousadebola@gmail.com
+  email: precious.osadebamwen@dal.ca
   github: 0
   education1: MSc (Bioinformatics), Covenant University, Nigeria
   education2: MPH (Health Promotion & Education), University of Ibadan, Nigeria
@@ -45,7 +45,7 @@
   photo: onyangob.jpg
   project: NSERC Discovery Grant funded project (co-supervised with Rob Beiko) developing genomic neighbourhood embedding based predictive models for phenotypic prediction.
   info: Interdisciplinary PhD student, starting Fall 2024
-  email: bonfaceb21@gmail.com
+  email: bn850130@dal.ca
   github: 0
   number_educ: 2
   education1: MSc (Bioinformatics), Pwani University, Kenya
@@ -55,6 +55,7 @@
   photo: taitm.jpg
   project: CIHR Team Grant funded project on factors influencing zoonotic transmissions of mpox
   info: Community Health & Epidemiology MSc Student, Starting Fall 2024
+  email: ml328752@dal.ca
   github: 0
   number_educ: 1
   education1: BHSc Honours (Health Sciences), Queen's University
@@ -63,11 +64,13 @@
   photo: nchao.jpg
   project: Comparing different tools to identify wildlife-associated coronaviruses within massive raw sequencing databases.
   info: Experiential Learning and Honours Student, starting January 2025
+  email: nchao@dal.ca
   number_educ: 1
   education1: BSc (Medical science), Dalhousie university (in-progress).
 
 - name: Anya McPherson
   photo: unfilled.jpg
+  email: an880784@dal.ca
   project: Evaluating long-read metagenomics for AMR detection
   info: Experiential Learning, starting January 2025
   number_educ: 1
