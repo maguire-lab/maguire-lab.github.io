@@ -68,7 +68,7 @@ An introductory course to the bacterial physiological processes required for int
 I provide guest lectures on the [clinical applications of bacterial genomics](https://maguire-lab.github.io/assets/talks/lectures/MICI3119_genomics.pdf)
 
 ### Secondary Data Analysis (EPAH6054)
-A graduate course in Community Health & Epidemiology primarily taught by Dr. Christy Woolcott. I provide a lecture on on [health data science](https://maguire-lab.github.io/assets/talks/lectures/EPAH6054_health_data_science.pdf
+A graduate course in Community Health & Epidemiology primarily taught by Dr. Christy Woolcott. I provide a lecture on on [health data science](https://maguire-lab.github.io/assets/talks/lectures/EPAH6054_health_data_science.pdf)
 
 # Workshops
 
