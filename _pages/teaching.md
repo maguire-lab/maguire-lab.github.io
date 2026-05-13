@@ -34,6 +34,7 @@ Health data science is a rapidly growing research field across academia, governm
 This course is offered jointly to the graduate students in [Community Health & Epidemiology](https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/program-details/courses.html) and the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience/graduate-programs.html).
 It is also open to advanced undergraduates with prior experience with statistics (e.g., CSCI2110 and either STAT2060 or CSCI2360)
 
+- [Summer 2026 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2026/)
 
 - [Summer 2025 syllabus/materials](https://maguire-lab.github.io/health_data_science_research_2025/)
 
