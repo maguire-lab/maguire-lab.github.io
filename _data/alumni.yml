@@ -1,3 +1,19 @@
+- name: Nathan Chao
+  photo: nchao.jpg
+  project: Comparing different tools to identify wildlife-associated coronaviruses within massive raw sequencing databases.
+  info: Experiential Learning and Honours Student, starting January 2025
+  email: nchao@dal.ca
+  number_educ: 1
+  education1: BSc (Medical science), Dalhousie university (in-progress).
+
+- name: Anya McPherson
+  photo: unfilled.jpg
+  email: an880784@dal.ca
+  project: Evaluating long-read metagenomics for AMR detection
+  info: Experiential Learning, starting January 2025
+  number_educ: 1
+  education1: BSc (Microbiology & Immunology/Psychology), Dalhousie university (in-progress).
+
 - name: Payton Boettcher
   photo: unfilled.jpg
   project: Curate and analysing a dataset of nested Lateral Gene Transfer events in Bacteria with David Mahoney.
@@ -52,5 +68,22 @@
   info: Microbiology & Immunology Honours student 2023-07 to 2024-04
   number_educ: 1
   education1: BSc (Microbiology), Dalhousie University (in-progress)
+
+
+- name: Nathan Chao
+  photo: nchao.jpg
+  project: Comparing different tools to identify wildlife-associated coronaviruses within massive raw sequencing databases.
+  info: Experiential Learning and Honours Student, starting January 2025
+  email: nchao@dal.ca
+  number_educ: 1
+  education1: BSc (Medical science), Dalhousie university (in-progress).
+
+- name: Anya McPherson
+  photo: unfilled.jpg
+  email: an880784@dal.ca
+  project: Evaluating long-read metagenomics for AMR detection
+  info: Experiential Learning, starting January 2025
+  number_educ: 1
+  education1: BSc (Microbiology & Immunology/Psychology), Dalhousie university (in-progress).
 
 
