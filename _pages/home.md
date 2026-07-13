@@ -23,6 +23,9 @@ For more details about specific projects, collaborators, and funding sources see
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/research_overview.png" alt="Lab Overview"/>
         </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/zambi_group.jpg" alt="Lab Team"/>
+        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/PhD_network.png" alt="Multi-Omic Network"/>
         </div>
