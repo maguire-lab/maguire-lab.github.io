@@ -14,6 +14,7 @@
   info: Postdoctoral Fellow, started June 2026
   project: NFRF Explore grant-funded project on exploring evolutionary trends of coronaviruses circulating in North American wildlife, particularly drivers of zoonoses and cross-species transmission. Collaborative project with multidisciplinary team Wildlife-Emerging Pathogen Initiative.
   email: zv311058@dal.ca
+  github: https://github.com/ashporter-44
   number_educ: 2
   education1: PhD (Evolutionary Biology) University of Sydney with [Eddie Holmes](https://profiles.sydney.edu.au/edward.holmes/about)
   education2: BSc (Genetics, Honours I) University of Queensland with [Mark Schembri](https://scmb.uq.edu.au/profile/738/mark-schembri)
@@ -32,10 +33,10 @@
 - name: Precious Osadebamwen 
   photo: adebolap.jpg
   project: NSERC Discovery Grant-funded project developing automated clinical and public health tools for detection of evolving antimicrobial resistance threats. These tools will be used to triage predicted AMR genes in genomic data by incoporating multi-modal data (genomic, phylogenetic, and contextual metadata). This is being developed using data from the Shared Hospital Lab's antimicrobial resistance organism outbreak and surveillance genomics.
-  info: CS PhD Student, starting January 2024
+  info: CS PhD Student, started January 2024
   number_educ: 3
   email: precious.osadebamwen@dal.ca
-  github: 0
+  github: https://github.com/EPreshh
   education1: MSc (Bioinformatics), Covenant University, Nigeria
   education2: MPH (Health Promotion & Education), University of Ibadan, Nigeria
   education3: BSc (Biology), University of Benin, Nigeria
@@ -43,7 +44,7 @@
 - name: David Mahoney
   photo: mahoneyd.jpg
   project: NSERC Discovery Grant-funded project based on the development and application of tools to detect lateral gene transfer (LGT) of genes with important microbial functions (such as antimicrobial resistance) from metagenomic assembly graphs. This involves a One Health focus with a priority on identifying intersectoral LGT events (i.e., those between clinical, environmental, agricultural environments). 
-  info: Interdisciplinary PhD Student, starting June 2023
+  info: Interdisciplinary PhD Student, started June 2023
   email: david.Mahoney@dal.ca
   github: https://github.com/David-Mahoney
   number_educ: 2
@@ -53,9 +54,9 @@
 - name: Bonface Onyango
   photo: onyangob.jpg
   project: NSERC Discovery Grant funded project (co-supervised with Rob Beiko) developing genomic neighbourhood embedding based predictive models for phenotypic prediction.
-  info: Interdisciplinary PhD student, starting Fall 2024
+  info: Interdisciplinary PhD student, started Fall 2024
   email: bn850130@dal.ca
-  github: 0
+  github: https://github.com/bonfaceonyango
   number_educ: 2
   education1: MSc (Bioinformatics), Pwani University, Kenya
   education2: BSc (Biochemistry), Egerton University, Kenya
@@ -63,9 +64,8 @@
 - name: Deanna Tait
   photo: taitm.jpg
   project: CIHR Team Grant funded project on factors influencing zoonotic transmissions of mpox
-  info: Community Health & Epidemiology MSc Student, Starting Fall 2024
+  info: Community Health & Epidemiology MSc Student, started Fall 2024
   email: ml328752@dal.ca
-  github: 0
   number_educ: 1
   education1: BHSc Honours (Health Sciences), Queen's University
 
